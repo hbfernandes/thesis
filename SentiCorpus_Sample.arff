@@ -1,0 +1,520 @@
+@relation _home_hfernandes_Development_git_hf-tese_weka
+
+@attribute text string
+@attribute @@class@@ {positive,negative,neutral}
+
+@data
+'Por isso Sócrates é bom para debater na Assembleia da Républica onde o tipo de debate o beneficia.',positive
+'Foi o BE que considera que os trabalhadores fazem parte da equação de gestão de uma Empresa.',positive
+'Vou votar no BE.',positive
+'Ferreira Leite foi muito melhor .  . .',positive
+'Jerónimo lembra e muito bem!',positive
+'Apenas Sócrates leva a propaganda habitual.',positive
+'Gostei imenso ,  principalmente da atitude de Manuela Ferreira Leite.',positive
+'ah grande Louçã dá-lhes nesse neoliberais falsos amigos dos banqueiros ,  dos lobbies empresarias ,  dos ricos ,  vazios de carácter ,  de ética e de tudo e que se estão nas tintas p\'ra quem passa fome ,  p\'ra quem vai p\'ro desemprego ,  p\'ras pensões de miséria ,  o desejo deles é despedir os trabalhadores ,  (  que desperdício ter que lhes dar umas migalhas )  e substituí-los por robots ,  acreditem é gente desta estirpe ,  o empregador neoliberal português!',positive
+'Para todos os efeitos quem ganhou com os debates foi ,  claramente ,  o Portas.',positive
+'Ferreira Leite foi coerente ,  argumentou com elevado sentido de estado ,  soube ser flexível perante novas condições políticas e mostrou respeito pelas pessoas ,  sinceridade e determinação .  . .',positive
+'Afinal o que o BE pretende é simplificar !  ! !',positive
+'Eu não tenho a minima dúvida em dar continuidade a Sócrates.',positive
+'Em termos de economia ,  fiscalidade ,  saude e educação ,  para não falar em segurança e agricultura ,  revejo-me mais no PP.',positive
+'O Francisco Louçã é um intelectual de esquerda com grande curriculum e que tem à sua volta um grande movimento de jovens maioritariamente com formação Universitária.',positive
+'Para que houvesse mais equilibrio seria melhor que o Bloco de Esquerda tivesse uma votação acima dos 13 \% para que as águas não fossem privatizadas e os preços dos combustivéis verdadeiramente regularizados.',positive
+'3º Ganha o BE,o ideal.',positive
+'Eu vou votar BE pois gostaria de vêr algo novo ,  ideias novas ,  talvez isto desemperre.',positive
+'Eu voto BE para mudar Portugal.',positive
+'Comungo da opinião de Ricardo Costa ,  hoje o debate foi ganho por Paulo Portas.',positive
+'Acho que vai haver muitos Portugueses surpreendidos com a quantidade de pessoas que como eu consideram este PM o melhor desde o 25 de Abril e a melhor coisa que nos aconteceu e mesmo que não consiga ganhar as próximas eleições as reformas importantes estão umas feitas outras encaminhadas .  . .',positive
+'Só da minha região são 7000 votos no BE ,  mais nada.',positive
+'Socrates melhor preparado e quanto a políticas a sugestão das nacionalizações era uma idiotice!',positive
+'Pois mas´o que é mesmo divertido é \"  pôr o Sócrates na rua ! !',positive
+'O voto util é BE.',positive
+'Sinto que só Sócrates conseguirá manter o rumo correcto para o país até 21/12/2012.',positive
+'Pareceu-me que as propostas do BE seguem nessa direcção.',positive
+'Louçã ganha em toda a linha.',positive
+'Onde Portas teve razao foi quando diz que ha fraude sobre o RSI e penso que ai estigmatizou os ciganos e com razao.',positive
+'Mais uma vez ontem Jerónimo de Sousa mostrou que ele é toda a história do PCP além de ser uma pessoa de uma honestidade e respeitabilidade acima de qualquer suspeita é um genuíno \"  comunista \"  na sua origem e na sua abordagem da política.',positive
+'Concorde-se ou não Louçã propôs soluções diferentes das que tem sido adoptadas pelos socialistas neoliberais de direita deste governo.',positive
+'Apesar da sua estratégia de análise do passado de Portas em vez da sua legislatura ,  perdeu-o.',positive
+'Quanto a questões fiscais ,  o BE defende que a saúde e o ensino devem ser gratuitos e ,  sendo gratuitos ,  nada há a deduzir.',positive
+'O Paulo Portas manteve-se calmo!',positive
+'BE/Louçã ,aos poucos ,  vão sendo de facto uma alternativa de Governo.',positive
+'Jerónimo de Sousa é muito correcto na linguagem que utiliza nos debates.',positive
+'Ao contrário do que dizem ,  Sócrates esteve bem e venceu claramente.',positive
+'O BE está a incomodar tanto!',positive
+'Sócrates ,  com defeitos e virtudes ,  demonstrou estar à altura do cargo de Primeiro Ministro também no plano das relações internacionais.',positive
+'Para todos os efeitos quem ganhou com os debates foi ,  claramente ,  o Portas.',positive
+'vou votar Sócrates.',positive
+'Com o Louçã cairá ao primeiro assalto.',positive
+'Jerónimo mostrou-se mais solto e penso que venceu o debate.',positive
+'E o BE é a esquerda moderna e voltada para o futuro.',positive
+'não há forma de disfarçar a fanfarronice MAIORIA para Socrates e temos um Portugal decente... ',positive
+'Não basta o Louçã andar a cilindrar adversários na TV (  ainda que os comentadores de serviço finjam que não foi nada disso ) .',positive
+'Creio que Ferreira Leite têm razão neste aspecto...deixemo-nos de grandes obras faraónicas para um país pequeno. que tem de evoluir nas medidas sociais.',positive
+'ah grande Louçã dá-lhes nesse neoliberais falsos amigos dos banqueiros ,  dos lobbies empresarias ,  dos ricos vazios de carácter ,  de ética e de tudo e que se estão nas tintas pra quem passa fome ,  p\'ra quem vai para o desemprego ,  para as pensões de miséria ,  o desejo deles é despedir os trabalhadores ,  (  que desperdício ter que lhes dar umas migalhas )  e substituí-los por robots ,  acreditem é gente desta estirpe ,  o empregador neoliberal do futuro!',positive
+'Louçã foi genial.',positive
+'O debate ajudou-me a perceber votarei BE.',positive
+'Apesar de ter estado abaixo das expectativas ,  Louçã ganhou o debate.',positive
+'É evidente que não houve nenhum empate e que Sócrates ganhou e debate de ontem.',positive
+'Claramente que Sócrates ganhou o debate porque :  o líder do PCP não disse nada e Sócrates enumerou um conjunto de medidas que fez de uma tal forma que até parece que vivemos no país mais desenvolvido da Europa :  fiquei a saber quer se não fossem os estágios nas instituições de solidariedade social o número de desempregados neste país era maior :  o deficit foi controlado (  ainda não percebi esta do deficit porque se em 2004 foi inferior a 3 \% e actualmente é superior não percebo onde está o controlo -  não me venham com a dos 6,tal \% em 2005 porque aquilo era uma estimativa efectuada por um governo acabado de entrar em funções logo....tá tudo explicado )  :  as novas oportunidades formaram 900.000 portugueses (  do que ouvi falar elevar a formação através deste \"  expediente \"  é igual ao que as más línguas falam da licenciatura do Sócrates) .',positive
+'Jerónimo ganhou o debate.',positive
+'Creio que Ferreira Leite têm razão neste aspecto...deixemo-nos de grandes obras faraónicas para um país pequeno. que tem de evoluir nas medidas sociais.',positive
+'Louçã ganhou claramente o debate.',positive
+'Com o BE ,  não pagaria nada com o ensino do meu filho que está no Público e pagaria tudo com o outro que está no Privado.',positive
+'Quanto mais comentários aparecem a denegrir a imagem de Manuela Ferreira Leite ,  mais vontade tenho e vou votar nela mesma.',positive
+'O Socrates esteve bem neste primeiro debate.',positive
+'Francisco Louçã demonstrou que quando vai a estes debates ,  se prepara e consulta o programa do opositor ,  como a sua passagem em cargos governativos.',positive
+'Jerónimo deve ter vindo com novo ânimo com o enorme êxito da Festa do Avante.',positive
+'O Público neste título baralha sondagens com análise do debate que foi claramente ganho por Sócrates.',positive
+'Continuo a achar que temos Homem e 1º Ministro.',positive
+'Não que a Manuela Ferreira Leite seja a pessoa mais simpática e comunicativa ,  longe disso ,  mas aprendi a ver que é mais falta de jeito do que falta de carácter.',positive
+'No dia 27 voto BE não sou camelo.',positive
+'A questão da segurança e educação são pontos claros a favor do actual PM.',positive
+'Podem dizer mta coisa mal do Socrates... mas eu tenho muita inveja da geração que vai usufruir destas novas condições.',positive
+'Bom debate que mais uma vez Jerónimo de Sousa venceu porque não precisa de mentir!',positive
+'O PM manteve-se calmo ! ',positive
+'Portas ganhou o debate.',positive
+'Louçã não é apenas alternativa é a única alternativa.',positive
+'Jerónimo é um político e um trabalhador honesto ,  activo e muito dedicado.',positive
+'O debate foi bom ,  mas quanto a mim foi mérito do Portas.',positive
+'Portas ganhou o debate.',positive
+'Porque razão entende o Francisco Louçã que não devem existir deduções à colecta de IRS para Saúde e Educação que só beneficiam os mais cultos e informados assim como os mais espertalhões?',positive
+'Socrates é a alternativa ,  e temos de ser sérios com o seu trabalho.',positive
+'Jerónimo ganhou no capitulo da concorrencia.',positive
+'Francisco Louçã tem tudo para governar este pais como nunca ninguém governou.',positive
+'Portas muito seguro ,  ele é sem duvida o lider partidàrio que melhor se explica em Portugal e que mais claramente expoe as soluçoes que o seu partido propoe para o futuro.',positive
+'Concorde-se ou não Louçã propôs soluções diferentes das que tem sido adoptadas pelos socialistas neoliberais de direita deste governo.',positive
+'Portas falou de medidas a implementar bem interessantes.',positive
+'Aliás ,  todos os comentadores de TV logo a seguir ao debate deram uma vitória folgada ao Paulo Portas.',positive
+'Acho k a juventude esclarecida irá decidir-se por Sócrates.',positive
+'Ficou claro que quem ganhou o debate foi Paulo Portas.',positive
+'Nao sendo partidario mas sim Idealista e Humano prefiro mais defender o mais logico e neste momento e desde muito tempo o Socrates tem sabido governar e mesmo com as dificuldades que todos nos conhecemos.',positive
+'Socrates é um politico preparado e competente.',positive
+'Sócrates ganhou o que havia para ganhar.',positive
+'Nunca votei no BE ,  mas agora já não sei não.',positive
+'Eu ,  gato escaldado ,  agora voto BE.',positive
+'Louçã ,  esteve muito melhor ,  mas podia ter sido mais peremptório.',positive
+'Portas muito seguro ,  ele é sem duvida o lider partidàrio que melhor se explica em Portugal e que mais claramente expoe as soluçoes que o seu partido propoe para o futuro.',positive
+'Francisco Louça é um economista brilhante ,  um pensador e alguem de grande humanidade.',positive
+'Não só ver uma mulher a disputar um ofício de homens ,  como recordar o que esta SENHORA fez como Ministra das Finanças.',positive
+'Socrates ganhou claramente o debate.',positive
+'Ao contrário ,  o Portas disse que os impostos estavam altos e apresentou a sua proposta de como baixar os impostos.',positive
+'O BE tem vindo ,  sem margem para dúvida ,  a mostrar o quanto merece a oportunidade para governar.',positive
+'Ao contrário do que dizem ,  Sócrates esteve bem e venceu claramente.',positive
+'O ataque foi efectuado ignorando ,  propositadamente ,  que esses benefícios deixariam de ter razão de existir porque o BE se propunha a um sistema de saúde e ensino gratuitos.',positive
+'A MFL é uma pessoa que me fascina.',positive
+'eu já julguei e condenei o portas pelo seu governo em 2005 agora a questa é julgar o Pinoquio o qu ele fez é que me interessa é ele que eu condeno agora dia 27 voto no paulo das feiras ,  até porque eu sou feirante e tenho orgulho nisso pelos vistos estes socialistas sao finos demais para olharem por gentinha das feiras',positive
+'Socrates dominou o debate em todas as matérias.',positive
+'Sócrates ,  com defeitos e virtudes ,  demonstrou estar à altura do cargo de Primeiro Ministro também no plano das relações internacionais.',positive
+'Portugal já merece um primeiro ministro honesto e competente como o Louçã.',positive
+'Concordo inteiramente com MFL quando esta aposta nas PME´S.',positive
+'Agora a verdade é uma,não houve vencedores,mas Sócrates ficou aquem do seu habitual tipo de abafar o adversário,mas isto teve como obstáculo a forma do debate e suas regras e a verdade seja dita, Portas atacou bem e rebateu os pontos principais que Socrates tentou como de costuma evidenciar na sua governação.',positive
+'Estou seriamente inclinado a votar Ferreira Leite nas próximas Legislativas.',positive
+'Sem dúvida que o Debate foi ganho pelo Paulo Portas.',positive
+'O \"  crime \"  de José Sócrates e governo foi de ter o atrevimento de mexer com os poderes e interesses instalados e acabar com a inércia em pedras basilares do País.',positive
+'Houve um vencedor no debate e esse foi Sócrates.',positive
+'ah grande Louçã dá-lhes nesse neoliberais falsos amigos dos banqueiros ,  dos lobbies empresarias ,  dos ricos vazios de carácter de ética e de tudo e que se estão nas tintas pra quem passa fome ,  para quem vai para o desemprego ,  se eles pudessem mandavam tudo pra rua e substituiam os trabalhadores por robots ,  acreditem são gente dessa estirpe!',positive
+'Sócrates ganhou o que havia para ganhar.',positive
+'Louçã hoje foi simplesmente brilhante , .',positive
+'O que eu não consigo perceber é porque é que vocês não gostam da MFL.',positive
+'Todos os comentadores tiveram que reconhecer que Sócrates ganhou o debate!',positive
+'Se as eleições fossem hoje possivelmente votaria MFL por falta de opções crediveis.',positive
+'Quem queira ver Portugal rumo a um futuro risonho votará Sócrates.',positive
+'Na segurança ,  o actual PM ripostou bem com números a situação actual e puchou a memória do passado \"  Você esteve lá e não fez ...  \" .',positive
+'Portas é um excelente político que tenta ganhar o seu espaço junto do eleitorado de uma forma quase religiosa e determinada.',positive
+'Socrates é um primeiro ministro com visão e amplitude.',positive
+'Portas ganhou o debate!',positive
+'Penso que o CDS está melhor preparado em termos de politicas sociais e económicas (  Portas esteve muito bem a mostrar as diferenças )  para combater a crise e penso que poderá ajudar a classe média que foi fustigada pela actual governação socrática.',positive
+'Jerónimo deve ter vindo com novo ânimo com o enorme êxito da Festa do Avante.',positive
+'Vamos dar a Sócrates mais uma oportunidade para completar o seu trabalho em prol do país.',positive
+'Criou-se a campanha contra o Socrates ,  os ignrnts acreditam no k se diz na TV e desceu a popularidade dele.',positive
+'Eu voto BE.',positive
+'O Sócrates é inteligente ,  temos que o reconhecer ;  ',positive
+'Jerónimo mostrou-se mais solto e penso que venceu o debate.',positive
+'Diga-se o que se disser Manuela Ferreira Leite é uma pessoa muito competente ,  seriedade absoluta e sabe do que fala ,  disso ninguém duvide.',positive
+'É o PM deste País e representa o partido,que nas últimas legislativas ,  teve a maioria absoluta.',positive
+'Estamos fartos de populismo e do vira casacas do Sócrates que agora quer vestir a pele de cordeiro quando esteve 4 anos a congelar escalões ,  a congelar aumentos e a recusar fazer o que prometeu.',negative
+'Eu sei o que são as propostas do BE ,  e nos debates tem ficado clara a sua irresponsabilidade.',negative
+'O discurso de Louçã tornou-se ,  para mim ,  insuportavelmente demagógico.',negative
+'Depois ,  Ferreira Leite sob pressão é um festival de gaffes e de nervosismos e inseguranças desnecessários.',negative
+'O BE vive da mentira e do embuste.',negative
+'\"  Mas algum dia o Sócrates clarificou alguma coisa?Depois diz que não reconduzirá nenhum ministro no caso de permanecer no Governo ,  e faz muito bem ,  o primeiro também.',negative
+'Quanto aos debates ,  a idosa MFL não ganhou nenhum.',negative
+'A humildade que Sócrates descobriu recentemente ,  não passa de embuste.',negative
+'O Jerónimo de Sousa foi um nabo.',negative
+'O erro que não posso perdoar ao Dr Paulo Portas foi o ter-se demitido para depois regressar à liderança do CDS-PP ,  talvez tivesse o meu voto nestas eleições se não tivesse tido esta atitude.',negative
+'E ainda Jerónimo queria mais ,  Deus nos livre.',negative
+'Patético é alguem admitir que MFL tenha perfil e competência para poder governar o país.',negative
+'Sócrates passou o debate a falar do Programa do Bloco.',negative
+'Foi uma verdadeira rodada de ginja ao pagode e ao Jerónimo.',negative
+'A MFL é uma pessoa que é doente velhota.',negative
+'Socrates ganhou em propaganda e perdeu em substancia e credebilidade.',negative
+'Não gosto do Paulo Portas.',negative
+'Vamos conseguir tirar de lá o Sócrates.',negative
+'Foi muito util cá em casa o debate de ontem ,  mas já tinha decidido que este BE já não é aquele em que votei desde o principio',negative
+'E é patético o PM vir dizer que \"  quando o PS perde ,  a direita vai para o poder \" .',negative
+'Manuela Ferreira Leite está preparadissima para governar um capoeiro de galinhas sem galo.',negative
+'É que discutir estes temas de modo sério ,  iria expor a política de fantasia deste PM acerca destes 2 assuntos ,  que são vitais para os Portugueses.',negative
+'Sócrates quando fala de educação não faz mais que mentir :  que QUE FRAUDE !  ! !',negative
+'José Sócrates tem demonstrado que a mentira é um método racional de se atingirem objectivos préviamente definidos.',negative
+'Não vejo como Sócrates possa ter vencido este debate.',negative
+'Sócrates insultou os portugueses ontem à noite ,  ao não querer entender a contradição das deduções fiscais na saúde e educação ,  num cenário em que as duas seriam gratuitas para todos !  ! !',negative
+'Louça ficou mal,porque a auto-estrada não vai ser adjudicada,mas todos os outros casos,como a galp,contentores ou do presidente de Angola em que Louça expôs as contradições de Sócrates já não houve problema.',negative
+'Isto claro só vem reforçar a minha convicção de que o Sócrates é um sujeito mal formado.',negative
+'É por isto que digo que Sócrates é demagógico ,  levando muitos à certa.',negative
+'Pode -se compreender que foi um debate politico no sentido proprio ,nada a ver com os dois precedentes,sobretudo aquele com o Paulo Portas que eu nunca votaria em tal pessoa;arrogante,falso e foge a certas perguntas como o Rato foge do Gato.',negative
+'Mas o Sócrates mente descaradamente.',negative
+'Passado um pouco MFL continuava a perguntar-lhe onde iria elebiuscar a massa.',negative
+'Só os \"  radicais \"  do socretismo podem achar que o Socrates ganhou.',negative
+'E o caso da Islândia é paradigmático ,  pois ensina Sócrates que tem preconceito contra os privados ,  que os estados também podem ir à banca rota.',negative
+'O BE pode prometer tudo porque sabe que nunca formará governo.',negative
+'Sócrates foi desmascarado com alguns dos seus acordos ruinosos para o Estado.',negative
+'Quando o Louçã começou com blá blá do costume ,  omitindo as medidas que propôe no programa , este puxa do catrapásio ,  e leu-lhe na sua cara ,  mostrando que nada condizia ,  com a sua propaganda ,  o Louçãficou descorado ,  apanhou um KO ,  ainda tentou barafustar ,  com aquela voz grossa ,  professoral ,  mas nunca mais equilibrou ... .',negative
+'A MFL tem um discurso incoerente com os seus próprios príncipios ,  quem preconiza que o crescimento económico através da dinamização das empresas é uma prioridade e logo depois tece comentários no limite da xenofobia ao maior parceiro económico e comercial de Portugal não pode aspirar a governar.',negative
+'Assim ,  Sócrates não vai lá.',negative
+'O jerónimo de sousa ,  parecia que estava sob efeitos de sedativos ,  foi um pardalito ,  demasiado fácil de depenar ... .',negative
+'Sócrates apresenta-se como vendedor da banha da cobra.',negative
+'Portugal não pode continuar nesta palhaçada permanente ,  nesta propaganda non-stop a que Sócrates nos quer habituar (  agora ,  a três semanas das eleições ,  na versão \"delicadeza e sensibilidade de esquerda\" ) .',negative
+'O PS de José Sócrates de socialista apenas tem o nome.',negative
+'Surpreendente é que agora ,  em 2009 ,  o mesmo Francisco Louçã aceite que um padre católico seja mandatário do Bloco de Esquerda pelo círculo de Viseu nas eleições do próximo dia 27.',negative
+'A MFL não pode dizer que os impostos estão demasiadamente altos ou excessivamente altos e depois apenas prometer que não os irá aumentar.',negative
+'Sr Sócrates faça o favor de saber quem é porque merece ser pago pelo trabalho!',negative
+'Peço desculpa aos comentadores ,  mas so mesmo sendo de Lisboa é que se pode apoiar uma pessoa como Francisco Louça.',negative
+'Convém lembrar que esta senhora que agora ataca os espanhois é a mesma que perdoou uma dívida de 1 milhão de euros ao Santander Totta quando foi Ministra das Finanças que depois lhe \"  ofereceu \"  um cargo na Administração quando saiu do governo .  . .',negative
+'Que haja quem ainda perca tempo a ouvir José Sócrates ,  vá que não vá!',negative
+'Portugal está ,  por culpa exclusiva de Sócrates e da sua falta de sentido de Estado e de maturidade ,  num espartilho que lhe tolhe os movimentos.',negative
+'Eu acho que o Socrates esteve quase para pedir um intervalo... que tareia !  ',negative
+'Sócrates não teve pedalada!',negative
+'Acho muita graça ,  quando o Sr Pinto de Sousa (PM) diz que o governo tomou medidas para o aumento do salário minímo nacional, mas esqueceu-se de dizer que foi à custa de vários despedimentos, porque realmente quem teve que pagar essa medida não foi o governo mas sim as empresas e muitas delas já com dificuldades para cumprir o pagamento de impostos principalmente as pequenas e médias empresas.',negative
+'E ainda Jerónimo queria mais ,  Deus nos livre.',negative
+'Louçã foi tão somente apanhado na sua própria ratoeira ,  alinhando pelo truque que está a dar e que consiste em falar contra os privilégios dos ricos para na verdade atingir todos os cidadãos.',negative
+'Arrumada a questão da MFL que comprovadamente demonstrou que era retrógrada ,  xenófoba(cabo-verdianos ,  ucranianos ,  espanhóis... )  enfim ,  um verdadeiro atraso de vida !  ! !',negative
+'Vi um PM farsante ,  frouxo ,  humilde ,  acabado ,  muito para além do prazo de validade.',negative
+'Sócrates atingiu aquele ponto em que divide profundamente os Portugueses ,  em lugar de os unir.',negative
+'Já Sócrates tem apenas o peso do dinheiro do Freeport no bolso \"  Hugo Boss \"  eum certo medinho de origem..... inglesa.',negative
+'Revelando fragilidades e comprometido ,  provavelmente pela falta de transparência e isenção manifestada nesta legislatura ,  Sócrates ,  permitiu a humilhação ao insistir na questão fiscal.',negative
+'O Sócrates que diz ser engenheiro já está a fazer contas e já sabe que não existem analfabetos suficientes para que ele consiga chegar ao governo sozinho.',negative
+'O Sócrates foi mais uma vez postiço.',negative
+'Basta perguntar na Ordem dos Engenheiros se alguma vez reconheceram cursos da Universidade Independente para se ficar a saber que o Sócrates é Bacharel e não Licenciado em Engenharia como ele afirma ser.',negative
+'Como é possivel dizer que Portas ganhou o Debate?',negative
+'Os que procuram uma esquerda moderada ,  iludem-se com as tretas do BE e votam neles . .',negative
+'Pensei que o baixo nível de comentários do Sócrates fosse de propósito ,  uma armadilha para os seus adversários.',negative
+'Portas neste debate foi o popular empata ,  que só complica um caminho que se quer pacífico e paulatino.',negative
+'Louçã nada mais é do que uma pintura nova num carro velho.',negative
+'os debates televisivos foram esclarecedores e muito constrangedores para a MFL ,  mas não só.',negative
+'Sócrates não está desempregado ,  porque não é licenciado',negative
+'Nenhum comentador se refere ao ar sisudo e incomodado ,  à atitude zangada de Sócrates que não sabe lidar com a diferença ou seja com a democracia .  . .',negative
+'Mostrou o radicalismo do BE ,  que defende nacionalizações e fim dos benefícios fiscais para a educação e saúde.',negative
+'E não tenham dúvidas de que Manuela Ferreira Leite ,  uma vez no poder ,  não acabará com a divisão da carreira em duas (  ou mais )  categorias ,  nem com a avaliação em função do desempenho.',negative
+'Agora a verdade é uma,não houve vencedores,mas Sócrates ficou aquem do seu habitual tipo de abafar o adversário,mas isto teve como obstáculo a forma do debate e suas regras e a verdade seja dita,Portas atacou bem e rebateu os pontos principais que Socrates tentou como de costuma evidenciar na sua governação.',negative
+'Sócrates foi desmascarado com alguns dos seus acordos ruinosos para o Estado.',negative
+'O PS do Sócrates quanto a Democrático tem pouco ,  por isso nada tenho a acrescentar ao que já tem sido dito.',negative
+'O Sócrates é tão Engenheiro como eu sou calceteiro marítimo!',negative
+'As teses do PP sobre o RSI e o salário minimo nacional só podem ser obra de alucinados numa torre de marfim social!',negative
+'Como o voto é secreto não direi óbviamente sobre em quem recairá a minha escolha ,  mas não é certamente em MFL ,  nem em partidos radicais ou demagôgos.',negative
+'Como não quero nada com o PS ,  não irei votar em Sócrates.',negative
+'Sócrates tem muito pouco sentido de Estado ,  acho eu.',negative
+'Louça e o BE comprometem-se a acabar com os benefícios fiscais em IRS (  PPR ,  despesa educaçao e saúde deixam de ser dedutiveis ) .',negative
+'Se o palhaço do paulo Portas não tivesse nascido em berço de Ouro filho do Arqº Nuno Portas e da Helena Sacadura e não conseguir emprego como iria sobreviver a sua a minha a custa de todos os Portuguêses além só conhece agora os Portuguêses a convenser para o porem no poleiro para comer a sua a nossa custa a custa de todos os Portugêses beija agora porque precisa desde feiras a lares da terceira idade depois não conhece ninguèm.',negative
+'Será que Louçã está meses à espera para ter por exemplo uma consulta de especialidade nos serviços públicos?',negative
+'O Paulinho das Feiras está radiante e já pula de contente com a perspectiva de voltar para o governo.',negative
+'Se Sócrates não fosse de direita falava já em ISP igual para a gasolina e para o gasóleo e em declarações de IRS em cima da mesa para consulta pública na repartições de finanças.',negative
+'Louçã parece um senhor do século passado com a suas ideologias.',negative
+'Não me parece que Sócrates esteja à altura do cargo ,  pela arrogância que demonstra e que ficou bem patente na tirada em que se armou em moralista pregando sobre a importância de ser humilde.',negative
+'Porque razão não somos directos ,  precisos e objectivos e dizemos que Sócrates governou promovendo a subserviência ,  favorecendo o clientelismo e degradando o país ,  ou seja ,  governou mal.',negative
+'Como Sócrates já não tinha ,  nem tem ideias nem nada a prometer para o futuro do país... fez o que podia fazer .  . .',negative
+'Quanto à parvalheira de Sócrates sobre a retirada dos benefícios ,  é óbvio que num estado em que a saúde é um direito universal e em que a mesma funciona bem (  pois aplicar-se-ia o capital necessário na mesma )  não se pode dar benefícios pelos caprichos de alguns irem ao privado!',negative
+'Duvido que Socrates seja Engenheiro .',negative
+'Caro Gungunhana ,  podes ter razão em comparar a tua avó à Manuela Ferreira Leite ,  não conheço a tua avó (  as minhas eram bem mais simpáticas mas eu sou um homem de sorte ) .',negative
+'Mas o Sócrates anda ultimamente um pouco tralharouco.',negative
+'O programa do BE é \"  espantoso \"  ,  eu ainda diria mais ,  é ESPANTOSO !  ! !',negative
+'Paulo Portas apagou-se e anunciou a sua retirada da arena ,  só que ainda não sabe.',negative
+'O engano da senhora Ferreira Leite sobre o IRC foi muito mais que um engano ,  foi uma revelação.',negative
+'O populismo de Louçã ,  tinha um dia que ser desmascarado,cavalgou todos os descontentamentos tentando ganhar votos e ,  até ontem parecia conseguir.',negative
+'Manuela Ferreira Leite perdeu os votos da Direita ,  já que tantas vezes fez suas as palavras de Louça ,  e perdeu os votos dos eleitores do PS reflectindo um programa eleitoral demasiado vago ,  reforçando políticas falhadas de outros governos onde a própria participou :  sem respostas e sintético -  \'  é ! \'',negative
+'Sócrates desesperou .  . .',negative
+'Vi o debate,este foi sem interesse ,acusador e sem proposiçoes viaveis e concretas,da parte de Ferreira Leite sem capacidade de argumentaçao e de mostrar aos portugueses o que realmente faria.',negative
+'Jerónimo de Sousa é um político \"  teórico \"  enganador e que fica sem argumentação perante os factos da realidade prática.',negative
+'Aquilo foi cá uma coça ,  que o Socrates devia te ficado com nódoas negras no corpinho ! !',negative
+'Socrates para mim é um animal politico que só pensa nele.',negative
+'Em terreno neutro viu-se a vulnerabilidade de Sócrates.',negative
+'já repararam que MFL não articula o pensamenbto ?  pode ser giro amandar bocas na campanha ,  mas querem alguem a governar o país aos implusos e insultos ?  que remédio ,  lá terei que votar no socrates',negative
+'Neste debate em que o jesuíta Louçã repetiu ideias velhas sob roupas novas,trazendo de novo a tralha marxista das nacionalizações e o discurso patético do casamento dos homossexuais ,  lembrei-me da velha frase de Lincoln \"  podemos enganar algumas pessoas todo o tempo.',negative
+'Se Sócrates não ganha é o fim da sua carreira política ,  por isso realmente ele era capaz de vender a alma ao diabo para vencer no dia 27.',negative
+'Sócrates é uma anedota ,  com um programa que é um verdadeiro pastelão de pormessas por cumprir ,  deixa um país mergulhado no desemprego ,  endividade e depressivo ,  e depois vem dizer que os outros são negativistas ,  quando foi ele o responsável pela situação a que chegamos',negative
+'Como o discurso político vive de meias verdades ,  o ainda PM ,  insistiu em deturpar o sentido da proposta bloquista que defende ,  a extinção de alguns benefícios fiscais.',negative
+'Gostava de ter visto o Louçã explicar como é que podiam ter sido criados empregos com a economia mundial a recuar 3 ,  4 ou 5 \%.',negative
+'O impostor foi Portas que votou uma lei que agora critica e que nem se dignou a responder à pergunta se tinha votado ou não.',negative
+'Socrates chegou a ter até o fundador do CDS como ministro !  ',negative
+'Da redacção da RTP queixam-se que a cadeira de Sócrates estava molhada ,  e a alcatifa esfarelada.',negative
+'Grande banhada levou o Sócrates com a questão do fim dos benefícios fiscais.',negative
+'O Louçã não presta.',negative
+'Confesso que quase cheguei a ter pena da Manuela Ferreira Leite.',negative
+'Sócrates continua com a mesma conversa já gasta!',negative
+'Sócrates está a seguir à risca o que lhe dizem os estrategas da imagem que foram contratados para o efeito.',negative
+'Mas eis que cora e embatuca confrontado com o seu próprio programa e nem foi preciso falar das chinchilas ,  que é um problema de grande importancia para o BE.',negative
+'Anónimo de Lisboa o que u vi foi a MFL ,  mudar de opinião como qum muda de camisa ,  não me convenceu e tenho muita pena que os tugas queiram à frente do país esta retrógrada.',negative
+'O programa do BE é uma grande obra de ficção científica dos nossos tempos :  absolutamente irrealista e com traços lunáticos.',negative
+'Jerónimo de Sousa foi uma verdadeira decepção!',negative
+'Foi uma vergonha e revelador de falta de ideas ,  José Sócrates ter insistido tanto no programa do BE ,  sobre o fim dos benefícios fiscais nas contas PPR e Poupança Educação.',negative
+'Mas as caretas de Sócrates ,  que são o espelho das suas atitudes políticas ,  entusiasmaram-me!',negative
+'Paulo Portas foi ultrapassado pelo seu próprio discurso mastigado e regorgitado ,  transformado pelo tempo num discurso cunhalista de direita.',negative
+'Chamar Engenheiro ao Sócrates é algo que acho um absurdo porque desqualifica todos os que realmente o são!',negative
+'Sócrates dá a imagem de um político gasto ,  esgotado ,  falho de ideias e dinâmica.',negative
+':  ora se o homem (  Louçã )  quer um ensino público gratuito e um serviço nacional de saúde também gratuito ,  quais são as despesas que querem colocar no IRS?',negative
+'Para Louçã ,  agora os ministros da Igreja Católica já podem fazer campanha política ,  desde que ,  claro está ,  o façam pelo seu Bloco.',negative
+'Se Ferreira Leite ganhar as eleiçoes,a pobreza em Portugal vai duplicar ja agora esta é enorme.',negative
+'PP é um mentecapto e um mentiroso ,  que só pretende enganar o POVo para lhe caçar os votos.',negative
+'Finalmente ,  percebeu-se ,  entre outras coisas ,  que Ferreira Leite não quer nada com a Espanha (  e a Europa )  ,  destino principal dos produtos portugueses.',negative
+'Todos sabemos a quem e a que interesses o PP responde :  aos grandes empórios ,  à desregulação selvagem da economia ,  aos falso-moralistas mais ou menos afectos à Igreja ,  etc... etc .  . .',negative
+'O BE afinal serve para quê?',negative
+'Quem quiser acreditar no futuro de Sócrates como 1.ºMinistro ,  esteja à vontade ,  está a enganar-se a si próprio ,  por mim basta-me ver o sorriso forçado e amarelo que o homem tem desde as eleições europeias para perceber que ele próprio já prevê o fim para breve.',negative
+'MFL tem dificuldades em articular uma ideia ,  em acabar um raciocínio ,  e mostrou largamente as suas limitações oratórias e de líder.',negative
+'Nesse tema Paulo Portas pouco falou ...pudera.',negative
+'O problema de Sócrates é que o povo português sente que ele irradia desonestidade e que a sua política (  e a sua vida... )  é feita de manipulação ,  controle da imagem ,  ameaça ,  venda de favores ,  falta de sentido de Estado ,  em suma.',negative
+'Sócrates não é um mártir ,  por muito que tente.',negative
+'Mas quem é que o Sócrates quer tomar por tolo?',negative
+'Manuela Ferreira Leite \"  é velha \"  ,  \"  tem rugas \"  ,  \"  é feia \"  ,  não consegue manipular as pessoas num debate .  . .',negative
+'A cassete do PM já chateia.',negative
+'Manuela Ferreira Leite \"  é velha \"  ,  \"  tem rugas \"  ,  \"  é feia \"  ,  não consegue manipular as pessoas num debate .  . .',negative
+'No entanto, Louça falhou e portanto acho que se o BE tiver 9 \% será muito.',negative
+'Espero que os portugueses ,  percebem que votar neste senhor Socrates é votar numa mentira e votar num péssimo futuro para os nossos filhos e netos.',negative
+'Doi ver um político brilhante como Louçã enclausurado em posições absurdas e completamente desfasadas do mundo e das sociedades actuais.',negative
+'E se o PM e o PS tivessem um pouco de vergonha na cara?',negative
+'Taxar mais os \"  capitalistas \"  não será possível porque o BE quer extingui-los.',negative
+'Como é que é possível alguém achar que a Ferreira Leite ganhou este debate?',negative
+'O Sócrates fala fluentemente ,  embora o que diz pouco tenha a ver com a realidade.',negative
+'Nunca um político foi tão humilhado em televisão como o Jerónimo!',negative
+'Não é a mesma mulher que foi Ministra das Finanças no governo anterior onde não se notou a sua preocupação pelos reformados ,  pelos funcionários públicos (  a quem congelou os vencimentos por 2 anos )  ,  nem falava nas pequenas e médias empresas ,  tendo aumentado o IVA de 17 para 19 \% e tendo criado o Pagamento Especial por Conta?',negative
+'Na MFL é k nunca ! !',negative
+'Sócrates agarrou-se a sublinhados a amarelo de que fez bandeira para o «fait-divers».',negative
+'E o menino Paulo Portas que abastece em Espanha que não venha com teorias ,  ou se nacionaliza ou se fiscaliza agressivamente ,  nada de areia para os olhos com Autoridades de Concorrência que não só não cumprem o seu dever como ainda por cima ganham ordenados para trabalhar mal.',negative
+'Só vi 10 minutos do debate (  não consigo ouvir o PM )  ,  mas pareceu-me fraco.',negative
+'SOCRATES nunca mais ,apanhara o meu voto, ele é falso mentiroso e não cumpre as promessas.',negative
+'Sócrates é mais do mesmo ,  não tem qualquer argumento.',negative
+'Se estes são os seus patrões pelo menos é coerente ,  É que com a MFL já são três velhos retrogados e à muito ultrapassados!',negative
+'Não foi capaz de rebater NADA do que disse o vendedor de banha da cobra do PS (  leia-se o pseudo-engenheiro Sócrates )  ,  quando era tão fácil.... bastava citar as estatísticas e os próprios números oficiais !  ! !',negative
+'Sócrates levou para o debate as questões sociais ,  mas teve um azar do caneco ,  portas lembrou-lheo saque que ele fez aos reformados tendo-lhes aumentado astronomicamente o IRS ao ponto de pôr reformados com pensoes de apenas 500 euros a pagar IRS',negative
+'Sócrates mostrou-se ,  mais uma vez ,  como o vendedor de banha da cobra que é ,  com poucas ideias ,  pouca inteligência ,  inseguro e autista.',negative
+'Fantástico afinal ficou claro a que famelga política é que o Sócrates pertence.',negative
+'Para o peditório do BE já dei.',negative
+'Paulo Portas foi ultrapassado pelo seu próprio discurso mastigado e regorgitado ,  transformado pelo tempo num discurso cunhalista de direita.',negative
+'O Sócrates vendeu a alma ao Diabo.',negative
+'Quero é ver Sócrates diante da Esquerda de que ele ,  usando da mentira ,  se diz se acérrimo defensor.',negative
+'O Portas tem muita experiência ,  até foi condecorado pelo RAMSFELD ,  por ter apoiado a GUERRA NO IRAQUE ,  não é um político qualquer é um político condecorado pela maior potência do UNIVERSO GUERREIRO.',negative
+'Jerónimo de Sousa continua mal preparado.',negative
+'Liber,dade ,  não estejas grata a Sócrates!',negative
+'Para todos aqueles que aqui como o BE ,  dizem o que fazer mas \"  só \"  não dizem como e a que preço ,  nomeadamente .. .  \"  até que todos os cidadãos possam ter acesso aos vários serviços de saúde de forma gratuita \" .',negative
+'Este debate veio em má altura para Ferreira Leite.',negative
+'Sócrates não se consegue descolar da imagem de alguém que manipula ,  distorce a realidade social e económica.',negative
+'Eu não consigo acreditar que ninguém reparou que Ferreira Leite disse que ia baixar o salário mínimo.',negative
+'Manuela Ferreira Leite perdeu uma grande oportunidade para mostrar serviço.',negative
+'Pelo que vi hoje no debate, Socrates ou não percebeu nada ou faz de nós parvos.',negative
+'É muito interessante ver os defensores do BE a defender esta política fiscal de acabar com as deduções.',negative
+'Sócrates é retrógrado e antiquado.',negative
+'\"Sócrates acena com o papão da direita mas governou mais á direita do que a direita\".',negative
+'Será um voto válido contra Sócrates.',negative
+'O modo com a MFL se referiu aos espanhois demonstra ,  porque não acredito que lea pense o que disse ,  que é capaz de tudo para chegar ao poleiro.',negative
+'Asfixia foi o que Sócrates fez na sua governação ,  o pior dos piores governos após do fascismo com a mesma referencia da arrogância de um caudilho nacionalista',negative
+'Vejo uma Justiça desactualizada ,  só para alguns ,  Sócrates não me torna \"  a adormecer \" .',negative
+'Será que Sócrates ainda não conseguiu aperceber-se que o país está bem pior do que há 4 anos ,  mais desemprego ,  mais criminalidade ,  menos Justiça ,  mais tráfico de influências ,  menos polícias nas ruas ,  mais insegurança no trabalho ,  mais pobreza ,  não há vigilância adequada ,  no que deve haver.',negative
+'A conversa de modernidade e competência com que Sócrates tenta baralhar ,  a mim não me consegue.',negative
+'O Portas é o joker e incarna o ridículo da política -  sabe que vai ser o 5.º partido mais votado ,  mas que mesmo assim pode ser governo.',negative
+'MFL a 28 de Setembro será trocidada pelo seu proprio partido.',negative
+'Sócrates não tem preparação técnica e responde sistematicamente com demagogia e mais demagogia.',negative
+'Até tenho aqui uns papéis de mil novecentos e carquejas onde diz que a MFL é má para mim... porque é que só me criticam a mim?',negative
+'No Sócrates não voto.',negative
+'Eu se fosse simpatizante do BE ,  ficaria extremamente desiludido com o líder Francisco Louçã ,  ao constatar que a sua forma de crítica ,  resume-se exclusivamente a um só sentido :  criticar ,  criticar e espumar raiva contra quem governar e contra quem produz riqueza.',negative
+'Sócrates é refém do que fez e do que não fez!',negative
+'A MFL cheira-me a salararenta.',negative
+'Foi apenas ,  Sócrates ao nível habitual.',negative
+'O discurso do PSD e da MFL é igual ao do furebol ,  o que hoje é verdade amanhã é mentira.',negative
+'MFL só sabe dizer não ,  porque sim.',negative
+'Efectivamente o problema não é pôr o Sócrates na rua ,  isso até que vai ser fácil ,  o problema é o que vem a seguir… de que forma nos vamos livrar do  \"polvo\" xuxalista?',negative
+'Como Sócrates já não tinha nem tem ideias nem nada a prometer para o futuro do país... fez o que podia fazer .  . .',negative
+'Foi uma vergonha e revelador de falta de ideas , José Sócrates ter insistido tanto no programa do  BE ,  sobre o fim dos benefícios fiscais nas contas PPR e Poupança Educação.',negative
+'Se o BE tiver de formar Governo quem é que arranja com verdadeira capacidade para ser um ministro competente?',negative
+'Mais do que as palavras de Sócrates ,  olhemos para os seus actos nos últimos 4 anos e meio.',negative
+'Sócrates ,  infantilmente ,  quer um TGV para ser igual aos países desenvolvidos.',negative
+'Como é que os portugueses se deixaram enrolar uma vez que fosse por este vendedor de banha de cobra chamado Sócrates?',negative
+'Deu o exemplo dos carteis das gasolineiras enquanto Portas falou das SMS dos adolescentes.',negative
+'1º Ministro é uma autêntica anedota Nacional,tão GABAROLAS de que este governo fez um excelente trabalho,tudo maravilha na educação,segurança,justiça ...  .  . .',negative
+'Não há duvidas que o BE não é uma esquerda de confiança total.',negative
+'Por obra e graça do espírito santo só agora é que Sócrates acha que deveria ter outra postura com os professores.',negative
+'Qualquer um bate o Portas ,  de tal forma é uma caricatura anedótica ,  não diz nada de novo ,  engana meia dúzia de iludidos dos quais se esquece depois (  tal como fez no governo )  e manda umas bocas ensaiadas.',negative
+'O Sócrates fala fluentemente ,  embora o que diz pouco tenha a ver com a realidade.',negative
+'O Sócrates é magico ,  murmura encantamentos e ,  enleada pelo palrar ,  a economia vai melhorar ,  a produtividade aumentar ,  o desemprego descer ,  as meninas aprender e os cavalos correr.',negative
+'Alguém no seu juizo perfeito ,  após o debate de hoje votará em José Sócrates?',negative
+'Quando se falou no Código de Trabalho ,  (  o criticado pelo PS e o novo sancionado por eles )  ,  José Sócrates ,  comeu ,  calou ,  consentiu e anuiu.',negative
+'Sócrates é arrogante e diletante ,  ontem a cartilha dele falhou e emergiu um alternativa serena ,  ainda que não retórica ,  para cartilha o enviar para Espanha onde pode passear de TGV e deixar de brincar com os nosso impostos!',negative
+'MFL mostrou o que não quer.',negative
+'Sócrates nunca passará de um aprendiz de feiticeiro Berlusconi.',negative
+'Quanto maior for a derrota de Sócrates ,  mais provável é a sua demissão ,  sendo por isso desejável que o PS tenha uma percentagem ainda mais baixa que a conseguida nas europeias do passado dia 7 de Junho.',negative
+'O programa do BE é uma grande obra de ficção científica dos nossos tempos :  absolutamente irrealista e com traços lunáticos.',negative
+'Portas deixou bem claro que não irá tocar num unico tostão dos lucros astronómicos da banca.',negative
+'O Louçã é um radical ,  ou seja ,  não consegue ser pragmático porque põe os princípios dele acima de qualquer efeito prático ,  nem que haja gente a morrer por causa da ética que defende.',negative
+'Eu votei Sócrates em 2005 e passados uns meses já estava desiludido com algumas práticas da sua Governação.',negative
+'Socrates já provou que é um incompetente e não me dá garantias de seriedade (  freeport ,  mota-engil ,  curso de inginheiro ,  ...  e tanto mais ) .',negative
+'Manuela Ferreira Leite já anda a cometer demasiadas gaffes!',negative
+'Paulo Portas apagou-se e anunciou a sua retirada da arena ,  só que ainda não sabe.',negative
+'Para ser eleito há cinco anos ,  Sócrates prometeu criar 150 mil novos empregos ou prometeu antes criar 150 mil novos desempregados?',negative
+'Dos outros Partidos ,  aquele que me parecia mais interactivo e interventivo era o BE ,  mas ontem foi a confirmação total da sua incompetência/impreparação total para quaisquer actos governativos :  falam/denunciam casos pontuais na governação (  e ,  a sua existência deve confinar-se a isso e só isso )  ;  mas ,  o seu programa demonstra a sua irresponsabilidade na assumpção de qualquer acto de governação.',negative
+'Da redacção da RTP queixam-se que a cadeira de Sócrates estava molhada ,  e a alcatifa esfarelada.',negative
+'Paulo Portas já esteve até no governo ,  e o que fez NADA!',negative
+'Louçã e companhia já foram apanhados em contradição e a mentir.',negative
+'O discurso de Louçã tornou-se ,  para mim ,  insuportavelmente demagógico.',negative
+'Sócrates na sua sonsice sempre que debate com outros liders da esquerda apresenta o papão da direita ,  como se a esquerda fosse toda igual.',negative
+'Se alguma coisa os \"  comentários \"  neste fórum demonstram é que Sócrates atingiu aquele ponto em que divide profundamente os Portugueses ,  em lugar de os unir.',negative
+'Uma vez mais ,  Sócrates evitou detalhar perante os portugueses as chorudas negociatas da Mota Engil ,  EDP e GALP que foram realizadas com o aval do governo.',negative
+'Esta frase significa que o Sócrates é uma pessoa que não olha a meios para atingir os seus objectivos.',negative
+'AGORA ,  é o Governo PS/Sócrates que está a ser julgado e vai ser fortemente penalizado!',negative
+'Sócrates irradia de facto má fé.',negative
+'Sócrates é retrógrado e antiquado.',negative
+'Show ,  foi o que assisti por parte de Socrates e ,  quantas vezes aquele olhar descrevia uma mente pouco brilhante ,  receoso ,  e com aquela voz irritante de quem pretende demonstrar hoje uma pessoa diferente. Mas Freud explicaria.. loll',negative
+'O PM aqui em Santarém já recebeu a medalha de Ouro ,  por isso só falta ganhar a s eleições.',negative
+'O BE sabe o que quer ,  mas quanto à emigração ,  faz coro com os sindicatos ,  e com a igreja :  quer a quadratura do círculo :  com desemprego e baixos salários não se pode querer que venham para cá imigrantes xuxar os nossos impostos!',negative
+'O mal de Ferreira Leite é um problema de comunicação que a atrofia e que adia seriamente a decisão dos portugueses nesta altura do campeonato!',negative
+'Chega de cock and bull story de Sócrates.',negative
+'P.Portas tem como únicas medidas a apresentar ,  o insulto e a demagogia de feirante.',negative
+'Estes comentadores do BE têm dificuldade em aceitar a opinião de outros.',negative
+'Sócrates foi humilhado e gozado.',negative
+'Também eu votava BE e nunca mais.',negative
+'Aí dói ,  dói… (  Já repararam naqueles olhos da Ferreira Leite ,  naqueles cartazes do PSDV?',negative
+'Sócrates não merece ganhar as eleições legislativas.',negative
+'Quando vai para um debate leva uma máscara ,  tal como o nosso PM?',negative
+'Sócrates atingiu aquele ponto em que divide profundamente os Portugueses ,  em lugar de os unir.',negative
+'O Bloco de Esquerda não passa de uma partidozeco de drogados radicais ,  que têm como unico objectivo arrastar Portugal para a lama só para satisfazer os seus caprichos pseudo revolucionários.',negative
+'Se Sócrates ganhar ou formar governo ,  será difícil chegar-mos a saber a verdade das contas públicas e mais grave ,  dos saques !  ! !',negative
+'Portas nao é um politico,para mim é um \"  saltinbanco \"  ,um Oportunista.',negative
+'Sócrates mostrou-se ,  mais uma vez ,  como o vendedor de banha da cobra que é ,  com poucas ideias ,  pouca inteligência ,  inseguro e autista.',negative
+'Assim como renegociar a divida externa para 2013 com taxas de juros astronómicas ,  de forma a que ,  como pensava este PM ia ganhar as eleições e ficava 4 anos na boa sem preocupações.',negative
+'Nunca um político foi tão humilhado em televisão como o Jerónimo!',negative
+'Paulo Portas é a caricatura de um politico.',negative
+'No entanto só um \"  licenciado\"  do nível do nosso PM não percebeu a impossibilidade de deduzir uma NÃO DESPESA.',negative
+'Paulo Portas deve ter vivido num planeta em que só existiam seres como ele ou da mesma estirpe.',negative
+'Quem está a ser avaliado é este PM e o seu Governo Mediocre.',negative
+'Manuela Ferreira Leite no Seu potencial Governo ,  certamente contará com :  Pacheco Pereira ;  Paulo Portas ;  Vasco Polido Valente ;  J.Eduardo Moniz ;  Medina Carreira e claro com uma recuperada (  ) !',negative
+'A MFL não está à altura das exigências do governo.',negative
+'Governo onde o Sócrates esteve ,  mas gosta de se fazer passar por homem invisível.',negative
+'Um PM rasteiro ,  baixo e sem nível ,  como já foi demonstrado neste4,5 anos com o seu nome permanentemente na lama por tudo?',negative
+'Nunca o Louçã tinha passado por uma humilhação politica daquelas.',negative
+'É fenomenal a falta de respeito do Sócrates pela oposição ,  ao ponto de fazer uma comunicação ao país exactamente no mesmo momento em que estava a decorrer um debate entre dois líderes da oposição.',negative
+'Portugal está ,  por culpa exclusiva de Sócrates e da sua falta de sentido de Estado e de maturidade ,  num espartilho que lhe tolhe os movimentos.',negative
+'Ferreira Leite colheu a opinião favorável de 30,2 por cento dos eleitores.',negative
+'O BE é um partido que não tem soluções reais e que contribuam para a competitividade do país e quando se aprofundam os temas nota-se que por baixo do paleio não existe qualquer solução credível.',negative
+'Na MFL é k nunca ! !',negative
+'Quem precisa de um banho é Sócrates!',negative
+'O impostor foi Portas que votou uma lei que agora critica e que nem se dignou a responder à pergunta se tinha votado ou não.',negative
+'A continuar assim daqui a um mês o PM estará afastado da política ,  a contas com o Freeport e a assinar os projectos de casas feitos por outros : ',negative
+'Louçã parece um senhor do século passado com a suas ideologias.',negative
+'Portugal está ,  por culpa exclusiva de Sócrates e da sua falta de sentido de Estado e de maturidade ,  num espartilho que lhe tolhe os movimentos.',negative
+'Sócrates é tão profícuo a fazer promessas como a esquecer-se delas após as eleições.',negative
+'O \"  geitoso \"  do Portas é um demagogo.',negative
+'Paulo Portas é um papagaio palrador e bem falante ,  que só as peixeiras (  com todo o respeito por elas... )  levam a sério nas suas incursões semanais aos mercados .  . .',negative
+'Jerónimo de Sousa continua mal preparado.',negative
+'O Sócrates não é capaz de falar do futuro.',negative
+'Sócrates deve ser dos poucos que se pode gabar disso...',negative
+'Estes senhores do BE não devem receber nem um único voto ,  pois na Europa civilizada qualquer partido que defenda estas medidas seria a anedota nacional.',negative
+'Se MFL não se prepara para os debates será que está preparada para o cargo a que se candidata?',negative
+'Para os devidos efeitos ,  declaro solenemente que NÃO votei Sócrates.',negative
+'O discurso do Sócrates de apoio a todos como é óbvio acolhe votos.',negative
+'Só votava BE se estivesse louco.',negative
+'A oposição hoje representada pelo ex ministro Paulo Portas ,  deu mais um triste espectáculo que aliás se tem repetido de 15 em 15 dias na AR .  . .',negative
+'Eu não vi o debate ,  mas qualquer que seja o adversário ,  Socrates perde.',negative
+'Ontem a ideia que o Sócrates transmitiu foi a de um Governante atrasado e sem rumo.',negative
+'Mostrou ,  mais uma vez ,  um José Sócrates mentiroso ,  indivíduo de má-fé ,  sem ética.',negative
+'É impossivel a um demagogo como o PP vencer um debate.',negative
+'Sócrates é um actor e devemos manda-lo tentar a sorte no cinema ,  pois como governante foi a maior desgraça que caiu sobre os portugueses.',negative
+'Louçã anda muito bem de bicicleta mas não tem pedalada.',negative
+'Portugal não pode continuar nesta palhaçada permanente ,  nesta propaganda non-stop a que Sócrates nos quer habituar (  agora ,  a três semanas das eleições ,  na versão \"delicadeza e sensibilidade de esquerda\" ) .',negative
+'Os debates do PM com toda a oposição vem mostrar que o PM está abaixo em compet~encia ,  com excepção do Jerónimo ,  que tem grandes limitações também.',negative
+'Portugal não pode continuar nesta palhaçada permanente ,  nesta propaganda non-stop a que Sócrates nos quer habituar (  agora ,  a três semanas das eleições ,  na versão \"delicadeza e sensibilidade de esquerda\" ) .',negative
+'O Sócrates não é Engenheiro.',negative
+'O Louçã já pode fazer de salvador dos pobres à moda leninista.',negative
+'Sócrates mais uma vez assumiu alguns erros mas não disse como os iria resolver ,  a entrevistadora também não lhe pediu muitas explicações deixando sempre que Sócratestivesse a iniciativa ,  ao contrário do que fez com Ferreira Leite a quem colocou sistematicamente questões problemáticas e polémicas para o PSD .  . .',negative
+'Para o BE ,  a classe média não existe ... .',negative
+'Nem com os dentes brilhantes do \"  feirante \"  ele se safou... ',negative
+'E não tenham dúvidas de que Manuela Ferreira Leite ,  uma vez no poder ,  não acabará com a divisão da carreira em duas (  ou mais )  categorias ,  nem com a avaliação em função do desempenho.',negative
+'Se o Sr ,  Louçã quer ,  que vá à bolsa e compre acções ,  agora não obrigue os outros ser donos de coisas que não querem...',negative
+'Estou farto de tanta propaganda e só de pensar em mais quatro anos do mesmo ,  sou capaz de votar em qualquer um ,  só para correr com José Sócrates.',negative
+'Face às irresponsabilidades ideológicas pregadas por Louçã ,  aquela frase tem plena actualidade e deveria ser utilizada com regularidade pelos candidatos moderados.',negative
+'Não temos TGV porque não precisamos dele para sermos desenvolvidos ,  como é o caso de países desenvolvidos da Europa do norte e porque Sócrates com o endividamento do país tornou impossível prosseguir com esse projecto.',negative
+'Retire-se o populismo que há em Portas e veja-se o que fica.',negative
+'Mas de facto não me parece que o país tenha sido beneficiado com o negócio da GALP ,  questão a que o PM não esclareceu.',negative
+'Não entendo ,  mas que raio temos um PM que só fala do passado?',negative
+'A visão totalitária da sociedade de Louçã ,  novo Torquemada ,  apareceu mais uma vez travestida no ideal democrático que nunca professou.',negative
+'Antigamente ainda gostava do BE e Louça.',negative
+'Manuela Ferreira Leite está preparadissima para governar um capoeiro de galinhas sem galo.',negative
+'é o que está a acontecer à vista desarmada no estado maior de Manuela Ferreira Leite.',negative
+'Paulo Portas mais não é do que uma imagem empobrecida de si mesmo ,  sem fulgor nem novidade.',negative
+'Quem houve falar Sócrates fica com a impressão que é a pessoa mais séria e honesta do mundo.',negative
+'Paulo Portas devia saber também que isto não vai lá com lérias ou com conversa da treta.',negative
+'O jerónimo de sousa ,  parecia que estava sob efeitos de sedativos ,  foi um pardalito ,  demasiado fácil de depenar ... .',negative
+'E vejam também que alguns aspectos do programa do BE são uma autentica farsa.',negative
+'MFL tem dificuldades em articular uma ideia ,  em acabar um raciocínio ,  e mostrou largamente as suas limitações oratórias e de líder.',negative
+'E além disso são países que não têm por exemplo Subsídio de Desemprego para seu conhecimento ,  o que significa que não têm nada a ver com o que defende o BE ou será que a Nokia é uma empresa pública.',negative
+'Se MFL não se prepara para os debates será que está preparada para o cargo a que se candidata?',negative
+'Se Sócrates vendesse um carro usado,seria um Skoda com grelha de Jaguar!',negative
+'Quem compraria um carro usado a Sócrates?',negative
+'Para quem ainda tivesse dúvidas sobre Sócrates neste debate ficou provada a sua desonestidade intelectual.',negative
+'O Jerónimo é passado.',negative
+'Agora ,  só por si ,  isto não me leva a votar no BE.',negative
+'Sócrates ,  mais uma vez ,  mentiu :  o desemprego mesmo antes de 2008 já estava a crescer.',negative
+'Ferreira Leite colheu a opinião favorável de 30,2 por cento dos eleitores.',negative
+'O Portas quer tirar dinheiro dos que têm o rendimento mínimo ,  os tais dos 400 euros...até concordo no caso dos ilegais ,  mas presume-se que os do rendimento máximo 1.000.000s ,  ficam absolutamente imunes!',negative
+'Portugal está ,  por culpa exclusiva de Sócrates e da sua falta de sentido de Estado ,  de seriedade e de maturidade ,  num espartilho que lhe tolhe os movimentos ,  incitando os Portugueses à resignação e ao medo.',negative
+'Só se a intenção era apoiar Sócrates.',neutral
+'Eu sei que queria desmascarar o programa do BE,  mas quem foi e é PM  é ele e quem tem de responder por este país que se encontra num pântano ,  cheio de negociatas pouco claras e favores a amigalhaços é o \"  Trócaste \"  ...  ou se quiserem ,  o pinócrates .  . .',neutral
+'Ao afirmar que o PM é o responsável pela crise que gerou um aumento do desemprego é nojento.',neutral
+'Louçã perdeu o debate?',neutral
+'Só é pena MFL embora lúcida não seja mais nova ,  mas não podemos ter tudo.',neutral
+'Não percebeu patavina do programa do BE.',neutral
+'Jerónimo de Sousa ,  creio que é um homem sério e um comunista devotado mas o combate ,  neste momento ,  de grande crise do capitalismo ,  não se compadece de boas intenções.',neutral
+'O problema de Sócrates nunca foi a conversa.',neutral
+'Razão tinha eu quando aqui escrevi que o grande embate de Sócrates não foi o de ontem ,  mas sim a partir de hoje nos frente-a-frente!',neutral
+'Só com atenção se percebe MFL ,  caso da dívida externa ,  que passou de 66 \% para 100 \% ,  quem vai pagar a factura.',neutral
+'Até já perde debates com o Paulo Portas!',neutral
+'O gabinete do primeiro-ministro esclareceu que as palavras de José Sócrates em que este indicou que um novo governo significa novos ministros não querem dizer que vá existir uma total remodelação do Executivo.',neutral
+'Portas ganhou o debate?',neutral
+'Não só esta mas outras afirmações que fez em relação ao Louçã.',neutral
+'Pela quantidade de comentários ,  vejo que o BE é importante !  ...',neutral
+'Em noite de clarificações ,  Sócrates declarou que não reconduzirá nenhum ministro no caso de permanecer no Governo.',neutral
+'Que dissesse onde é que o Sócrates falhou.',neutral
+'Jerónimo deixou bem claro que dinheiro não falta neste país a começar na banca e nas gasolineiras.',neutral
+'E quanto a Manuela Ferreira Leite ,  ela lá vai percorrendo o seu caminho…',neutral
+'Manuela Ferreira Leite prometeu terminar com o Pagamento Especial por Conta.',neutral
+'Alguém viu o PM ser apanhado em alguma contradição ?  ? ?',neutral
+'Aliás ,  o Louçã deve ser o único gajo que se deu ao trabalho de ler um programa eleitoral ,  ainda por cima de um partido que não é do dele.',neutral
+'Ao fim e ao cabo ,  entre tanta mediocridade o Sócrates é um mal menor.',neutral
+'Portas também deveria propôr o fim da precariedade do trabalho!',neutral
+'Em que ficamos senhores comentadores ,  apoiantes de Socrates?',neutral
+'Sócrates está quase irreconhecível!',neutral
+'Por exemplo ,  estava desatenta ao que Portas dizia.',neutral
+'O Sócrates não é parvo.',neutral
+'Hoje ouvi José Sócrates dizer que ,  caso vencesse as eleições ,  iria mudar a composição do Governo.',neutral
+'Claro que o BE assusta muita gente.',neutral
+'Quando não houver aqui comentários contra MFL terão de falar das mãezinhas e das avozinhas ,  pois não sabem dizer mais nada de útil.',neutral
+'Se o Louçã se comportar assim ,  então é porque há pacto ou esquema no interior da ala esquerda.',neutral
+'Não considero que Sócrates tenha uma influência directa sobre o sucedido ,  agora as armas que apontou naquela direcção tiveram efeitos indirectos e fizeram estragos ,  até porque ,  nunca se sabe muito bem qual é a preferência política dos dirigentes da empresa que controla a TVI e que tipo de interesses têm junto do Partido Socialista.',neutral
+'O BE defende a extinção dos befeficios fiscais para a educação porque PARALELAMENTE defende a GRATUIDADE do ensino público e a extinção das propinas (  incluindo o pagamento dos manuais escolares por exemplo ) .',neutral
+'O BE chega ao poder ,  por coligação ou acordo parlamentar.',neutral
+'Eu atépercebia porque o PS não queria estes debates ,  afinal o Sócrates estava/está numa posição muito incómoda perante alguns disparates que o seu governos fez e perante os resultados da crise económica global e respectiva recessão.',neutral
+'Apenas Sócrates leva a propaganda habitual.',neutral
+'Esperava que o Louçã desse luta nas questões da economia e desemprego.',neutral
+'Este é o défice real que foi definido logo após uma auditoria às finanças públicas ,  e que aliás levou que o governo Sócrates tivesse que aumentar o IVA.',neutral
+'Embora não apoie o PSD e a Manuela Ferreira Leite ,  que já deu provas no passado de incompetência e autoritarismo ,  se ela ganhar ,  vamos ficar a saber que Portugal está de tanga ,  que os desfalques foram monstruosos e isso é positivo !  ! !',neutral
+'E vão ou deveriam ir de TGV ,  no tal TGV a 7 mil milhões de Euros que a horrenda da velha da Manuela Ferreira Leite não quer oferecer de bandeja aos espanhóis ,  certo ?  ?  ? ?',neutral
+'Mas e se Louçã for competente a nivel de melhorar este nosso pais?',neutral
+'A dúvida para mim põe-se no BE .. . .',neutral
+'José Carlos de Leiria voçê insulta o Louçã chamando-o de aprendiz de ditador sem apresentar quaisquer argumentos para justificar a sua opinião.',neutral
+'A medida que o Louçã propôs terá que ser implementada de forma faseada até que todos os cidadãos possam ter acesso aos vários serviços de saúde de forma gratuita.',neutral
+'Parece-me existir a intenção de dar a Sócrates um \"  puxão de orelhas \"  ,  mas por favor ,  não é preciso fazer \"  harakiri \"  para tal.',neutral
+'Estava à espera que o Louçã fosse capaz de dizer qual a política geradora de emprego.',neutral
+'Portugal e os portugueses estão fartos de verborreia sem consequência e Ferreira Leite já percebeu isso.',neutral
+'Parece-me existir a intenção de dar a Sócrates um \"  puxão de orelhas \"  ,  mas por favor ,  não é preciso fazer \"  harakiri \"  para tal.',neutral
+'Eu sei que queria desmascarar o programa do BE ,  mas quem foi e é PM é ele e quem tem de responder por este país que se encontra num pântano ,  cheio de negociatas pouco claras e favores a amigalhaços é o \"  Trócaste \"  ...  ou se quiserem ,  o pinócrates .  . .',neutral
+'E sobre essa governação ,  Paulo Portas já foi avaliado pelos portugueses.',neutral
+'Louçã pelo menos acredita naquilo que diz.',neutral
+'Resta esclarecer os portugueses do programa do Bloco de Esquerda.',neutral
+'É que o problema não é pôr o Sócrates na rua ...  . .',neutral
+'Acrescente-se que ,  para Sócrates ,  é vital ganhar.',neutral
+'Acusou o programa do BE de radicalismo.',neutral

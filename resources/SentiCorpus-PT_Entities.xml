@@ -1,0 +1,46 @@
+<ENTITIES>
+   <Entity NAME="Manuela Ferreira Leite">
+      <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+      <ALVO TIPO="CARGO">Drª Ferreira Leite</ALVO>
+      <ALVO TIPO="NOME">MFleite</ALVO>
+      <ALVO TIPO="NOME">Manuela FL</ALVO>
+      <ALVO TIPO="NOME">Ferreira Leite</ALVO>
+      <ALVO TIPO="NOME">FL</ALVO>
+      <ALVO TIPO="NOME">MFL</ALVO>
+      <ALVO TIPO="CARGO">Drª Manuela</ALVO>
+      <ALVO TIPO="NOME">Ministra da Educação</ALVO>
+      <ALVO TIPO="CARGO">Ministra das Finanças</ALVO>
+   </Entity>
+   <Entity NAME="José Sócrates">
+      <ALVO TIPO="CARGO">1º Ministro</ALVO>
+      <ALVO TIPO="NOME">SOCRATES</ALVO>
+      <ALVO TIPO="NOME">Socrates</ALVO>
+      <ALVO TIPO="NOME">Sócrates</ALVO>
+      <ALVO TIPO="CARGO">PM</ALVO>
+      <ALVO TIPO="NOME">José Sócrates</ALVO>
+   </Entity>
+   <Entity NAME="Jerónimo de Sousa">
+      <ALVO TIPO="NOME">Jerónimo de Sousa</ALVO>
+      <ALVO TIPO="NOME">Jerónimo</ALVO>
+      <ALVO TIPO="NOME">jerónimo de sousa</ALVO>
+   </Entity>
+   <Entity NAME="Francisco Louçã">
+      <ALVO TIPO="NOME">Louçã</ALVO>
+      <ALVO TIPO="ORG">BE</ALVO>
+      <ALVO TIPO="ORG">Bloco de Esquerda</ALVO>
+      <ALVO TIPO="NOME">BE/Louçã</ALVO>
+      <ALVO TIPO="GN_livre">lideres da esquerda</ALVO>
+      <ALVO TIPO="NOME">Francisco Louça</ALVO>
+      <ALVO TIPO="NOME">Francisco Louçã</ALVO>
+   </Entity>
+   <Entity NAME="Paulo Portas">
+      <ALVO TIPO="ALCUNHA">Paulinho das Feiras</ALVO>
+      <ALVO TIPO="NOME">PORTAS</ALVO>
+      <ALVO TIPO="ALCUNHA">feirante</ALVO>
+      <ALVO TIPO="NOME">Portas</ALVO>
+      <ALVO TIPO="NOME">Paulo Portas</ALVO>
+      <ALVO TIPO="ALCUNHA">saltimbanco das feiras</ALVO>
+      <ALVO TIPO="NOME">PP</ALVO>
+      <ALVO TIPO="ORG">CDS-PP</ALVO>
+   </Entity>
+</ENTITIES>

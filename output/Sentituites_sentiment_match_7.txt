@@ -1,0 +1,10 @@
+Before synonym check:
+Verbs matched: 1075.0/8681.0 : 0.12383365971662251
+Names matched: 483.0/8383.0 : 0.057616605033997376
+Adjectives matched: 766.0/1974.0 : 0.3880445795339412
+
+
+After synonym check:
+Verbs matched: 3752.0/8681.0 : 0.432208270936528
+Names matched: 2165.0/8383.0 : 0.2582607658356197
+Adjectives matched: 1043.0/1974.0 : 0.5283687943262412

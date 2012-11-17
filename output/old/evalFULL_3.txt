@@ -1,0 +1,37 @@
+### Full System Evaluation ###
+
+# Gold #
+Sentences: 2416 Entities: 3871
+Positive: 790 Negative: 2531 Neutral: 550
+
+# Input #
+Sentences: 2416 Entities: 829
+Positive: 192 Negative: 190 Neutral: 447
+
+Positive
+TP: 85.0   FP: 106.0
+FN: 705.0
+P: 0.4450262
+R: 0.10759494
+F1: 0.17329256
+
+Negative
+TP: 115.0   FP: 74.0
+FN: 2416.0
+P: 0.6084656
+R: 0.045436587
+F1: 0.08455883
+
+Neutral
+TP: 69.0   FP: 377.0
+FN: 481.0
+P: 0.15470852
+R: 0.12545455
+F1: 0.13855423
+
+Overall
+TP: 269.0   FP: 557.0
+FN: 3602.0
+P: 0.32566586
+R: 0.06949109
+F1: 0.1145412

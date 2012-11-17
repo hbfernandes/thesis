@@ -1,0 +1,14 @@
+### NER Evaluation ###
+
+# Gold #
+Sentences: 5734 Entities: 5734
+
+# Input #
+Sentences: 3751 Entities: 3947
+
+TP: 3720.0   FP: 227.0
+FN: 2014.0
+
+P: 0.94248796
+R: 0.64876175
+F1: 0.76851565

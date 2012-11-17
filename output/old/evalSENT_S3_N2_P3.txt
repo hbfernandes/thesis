@@ -1,0 +1,37 @@
+### Sentiment Evaluation ###
+
+# Gold #
+Sentences: 696 Entities: 1057
+Positive: 286 Negative: 612 Neutral: 159
+
+# Input #
+Sentences: 696 Entities: 1069
+Positive: 239 Negative: 244 Neutral: 586
+
+Positive
+TP: 107.0   FP: 131.0
+FN: 179.0
+P: 0.44957983
+R: 0.37412587
+F1: 0.40839696
+
+Negative
+TP: 166.0   FP: 77.0
+FN: 446.0
+P: 0.6831276
+R: 0.27124184
+F1: 0.3883041
+
+Neutral
+TP: 98.0   FP: 487.0
+FN: 61.0
+P: 0.16752137
+R: 0.6163522
+F1: 0.26344088
+
+Overall
+TP: 371.0   FP: 695.0
+FN: 686.0
+P: 0.34803003
+R: 0.35099337
+F1: 0.34950542

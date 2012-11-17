@@ -1,0 +1,3969 @@
+<CORPUS>
+   <COMENT ID="1">
+      <F ID="1" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="GN_livre">Homem</ALVO>
+            <ALVO TIPO="CARGO">1º Ministro</ALVO>
+         </ALVOS>
+         <VALUE>Continuo a achar que temos Homem e 1º Ministro.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="2">
+      <F ID="2" ALVO="Paulo Portas" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ALCUNHA">feirante</ALVO>
+            <ALVO TIPO="PRON">ele</ALVO>
+         </ALVOS>
+         <VALUE>Nem com os dentes brilhantes do &quot;  feirante &quot;  ele se safou... </VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Socrates</ALVO>
+         </ALVOS>
+         <VALUE>não há forma de disfarçar a fanfarronice MAIORIA para Socrates e temos um Portugal decente... </VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="3">
+      <F ID="3" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Sócrates é retrógrado e antiquado.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="4">
+      <F ID="3" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="CARGO">PM</ALVO>
+         </ALVOS>
+         <VALUE>O PM manteve-se calmo ! </VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="5"/>
+   <COMENT ID="6">
+      <F ID="1" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Paulo Portas</ALVO>
+         </ALVOS>
+         <VALUE>Paulo Portas foi ultrapassado pelo seu próprio discurso mastigado e regorgitado ,  transformado pelo tempo num discurso cunhalista de direita.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Não foi adversário para Sócrates nem nada que se pareça.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="Paulo Portas" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Paulo Portas</ALVO>
+         </ALVOS>
+         <VALUE>Paulo Portas apagou-se e anunciou a sua retirada da arena ,  só que ainda não sabe.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="7"/>
+   <COMENT ID="8"/>
+   <COMENT ID="9"/>
+   <COMENT ID="10"/>
+   <COMENT ID="11">
+      <F ID="3" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="CARGO">PM</ALVO>
+         </ALVOS>
+         <VALUE>A continuar assim daqui a um mês o PM estará afastado da política ,  a contas com o Freeport e a assinar os projectos de casas feitos por outros : </VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="12">
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+            <ALVO TIPO="PRON">ele próprio</ALVO>
+         </ALVOS>
+         <VALUE>Sócrates refugiou-se no passado -  como se ele próprio e o partido dele em 11 anos de 14 ,  directamente ligado ao poder também não tivessem passado e bem mais triste que o do CDS -  e sem a &quot;  meiguice &quot;  de Judite de Sousa ,  até respirava fundo quando interpelado em assuntos tipo Educação ,  Segurança ,  Emprego ,  etc.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="13">
+      <F ID="1" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Portas</ALVO>
+         </ALVOS>
+         <VALUE>O impostor foi Portas que votou uma lei que agora critica e que nem se dignou a responder à pergunta se tinha votado ou não.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Ao contrário do que dizem ,  Sócrates esteve bem e venceu claramente.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Portas</ALVO>
+         </ALVOS>
+         <VALUE>Até porque Portas nunca poderia ganhar :  esteve no governo PSD e foi tão medíocre como o resto do PSD.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="14"/>
+   <COMENT ID="15"/>
+   <COMENT ID="16"/>
+   <COMENT ID="17"/>
+   <COMENT ID="18"/>
+   <COMENT ID="19">
+      <F ID="2" ALVO="Jerónimo de Sousa" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Jerónimo de Sousa</ALVO>
+         </ALVOS>
+         <VALUE>Até o tradicional entusiasmo verbal de Louçã ficou morno ,  em presença do não menos morno Jerónimo de Sousa.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Até o tradicional entusiasmo verbal de Louçã ficou morno ,  em presença do não menos morno Jerónimo de Sousa.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="20"/>
+   <COMENT ID="21">
+      <F ID="6" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Sócrates não é um mártir ,  por muito que tente.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="22"/>
+   <COMENT ID="23"/>
+   <COMENT ID="24"/>
+   <COMENT ID="25">
+      <F ID="1" ALVO="Jerónimo de Sousa" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Jerónimo</ALVO>
+         </ALVOS>
+         <VALUE>Foi de facto um debate cordato ,  civilizado ,  em que Jerónimo se mostrou um senhor e o Louçã meteu a viola no saco.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Foi de facto um debate cordato ,  civilizado ,  em que Jerónimo se mostrou um senhor e o Louçã meteu a viola no saco.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="26">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Neste debate ,  o Sócrates tinha tomado uns 3 Xanax e o Jerónimo 4 Ginginhas nas Festa do Avante.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Jerónimo de Sousa" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Jerónimo</ALVO>
+         </ALVOS>
+         <VALUE>Neste debate ,  o Sócrates tinha tomado uns 3 Xanax e o Jerónimo 4 Ginginhas nas Festa do Avante.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="27">
+      <F ID="1" ALVO="Jerónimo de Sousa" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Jerónimo</ALVO>
+         </ALVOS>
+         <VALUE>Jerónimo lembra e muito bem!</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Sócrates recusou-se a participar na TV do PP.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="28">
+      <F ID="1" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="CARGO">PM</ALVO>
+         </ALVOS>
+         <VALUE>O PM fez muito bem em ter referido o Pina Moura.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Jerónimo de Sousa" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Jerónimo</ALVO>
+         </ALVOS>
+         <VALUE>Foi uma verdadeira rodada de ginja ao pagode e ao Jerónimo.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="29">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Se Sócrates não fosse de direita falava já em ISP igual para a gasolina e para o gasóleo e em declarações de IRS em cima da mesa para consulta pública na repartições de finanças.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="30"/>
+   <COMENT ID="31"/>
+   <COMENT ID="32">
+      <F ID="1" ALVO="Jerónimo de Sousa" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">jerónimo de sousa</ALVO>
+         </ALVOS>
+         <VALUE>O jerónimo de sousa ,  parecia que estava sob efeitos de sedativos ,  foi um pardalito ,  demasiado fácil de depenar ... .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="33"/>
+   <COMENT ID="34">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Até acredito que Sócrates não pediu aquela encomenda à TVI agora o que eu não acredito é que :  -não saiba quem é a administração da TVI ;  -não saiba que Pina Moura já saiu da TVI ;  </VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="35"/>
+   <COMENT ID="36">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Por obra e graça do espírito santo só agora é que Sócrates acha que deveria ter outra postura com os professores.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Sou a favor do modelo de avaliação dos professores proposto pela Ministra agora mais uma vez quem é que ficou convencido com a resposta de Sócrates dizendo que esta nova posição não tem nada a ver com as eleições?</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="37">
+      <F ID="1" ALVO="Jerónimo de Sousa" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Jerónimo</ALVO>
+         </ALVOS>
+         <VALUE>Nunca um político foi tão humilhado em televisão como o Jerónimo!</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="38">
+      <F ID="2" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">governo de Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>O governo de Sócrates herdou do anterior governo um défice superior a 6%(estava &quot;  mascarado &quot;  pelo bagão.. )  e descontrolado.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">governo Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Este é o défice real que foi definido logo após uma auditoria às finanças públicas ,  e que aliás levou que o governo Sócrates tivesse que aumentar o IVA.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="39"/>
+   <COMENT ID="40"/>
+   <COMENT ID="41">
+      <F ID="1" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Contra o partido dos interesses ,  o partido PS/PSD/CDS que tem desgovernado Portugal vou votar BE ,  pois claro.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="42"/>
+   <COMENT ID="43"/>
+   <COMENT ID="44">
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela FL</ALVO>
+            <ALVO TIPO="ORG">governo PSD</ALVO>
+         </ALVOS>
+         <VALUE>Reparam que a Manuela FL admitiu o afastamento do Marcelo Rebelo de Sousa da TVI por parte do governo PSD (  em mais uma das suas concordâncias com o Louçã )  !  ? .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Reparam que a Manuela FL admitiu o afastamento do Marcelo Rebelo de Sousa da TVI por parte do governo PSD (  em mais uma das suas concordâncias com o Louçã )  !  ? .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="45"/>
+   <COMENT ID="46">
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Eu não consigo acreditar que ninguém reparou que Ferreira Leite disse que ia baixar o salário mínimo.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">FL</ALVO>
+         </ALVOS>
+         <VALUE>Conclusão,vamos ter a reedição do governo Barroso se FL vencer.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="5" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">Bloco de Esquerda</ALVO>
+         </ALVOS>
+         <VALUE>Para que houvesse mais equilibrio seria melhor que o Bloco de Esquerda tivesse uma votação acima dos 13 % para que as águas não fossem privatizadas e os preços dos combustivéis verdadeiramente regularizados.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="6" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louça</ALVO>
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>No entanto, Louça falhou e portanto acho que se o BE tiver 9 % será muito.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="47"/>
+   <COMENT ID="48"/>
+   <COMENT ID="49">
+      <F ID="1" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Francisco Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Francisco Louçã demonstrou que quando vai a estes debates ,  se prepara e consulta o programa do opositor ,  como a sua passagem em cargos governativos.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">BE/Louçã</ALVO>
+         </ALVOS>
+         <VALUE>BE/Louçã ,aos poucos ,  vão sendo de facto uma alternativa de Governo.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="6" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Não só esta mas outras afirmações que fez em relação ao Louçã.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="7" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>É que continuar a afirmar que o BE é esquerdista ,  é como eu afirmar que o CDS é de esquerda.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="50"/>
+   <COMENT ID="51"/>
+   <COMENT ID="52"/>
+   <COMENT ID="53"/>
+   <COMENT ID="54">
+      <F ID="2" ALVO="Francisco Louçã" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Talvez o Paulinho feirante se entendesse melhor sobre a ementa com o Louçã ;  o caviar sempre irá melhor com o sushi ,  não?</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="55">
+      <F ID="3" ALVO="Jerónimo de Sousa" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Jerónimo</ALVO>
+         </ALVOS>
+         <VALUE>Com este debate de hoje ente o Jerónimo/Portas ,  ficamos a saber que tudo se vai resolver (  ainda bem )  para o PAÍS ,  a coincidência das políticas entre estes dois partidos ,  somando o PSD ,  dá-nos a garantia de um governo ,  assim seja para bem de Portugal.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Paulo Portas" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Portas</ALVO>
+         </ALVOS>
+         <VALUE>Com este debate de hoje ente o Jerónimo/Portas ,  ficamos a saber que tudo se vai resolver (  ainda bem )  para o PAÍS ,  a coincidência das políticas entre estes dois partidos ,  somando o PSD ,  dá-nos a garantia de um governo ,  assim seja para bem de Portugal.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="56">
+      <F ID="1" ALVO="Jerónimo de Sousa" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Jerónimo de Sousa</ALVO>
+         </ALVOS>
+         <VALUE>Jerónimo de Sousa continua mal preparado.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Apenas Sócrates leva a propaganda habitual.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="57">
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">MFL</ALVO>
+         </ALVOS>
+         <VALUE>Pelos vistos ,  quem escreveu esta peça perdeu o debate de ontem entre MFL e Louçã onde se fez exactamente o mesmo.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Pelos vistos ,  quem escreveu esta peça perdeu o debate de ontem entre MFL e Louçã onde se fez exactamente o mesmo.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="58"/>
+   <COMENT ID="59">
+      <F ID="1" ALVO="Jerónimo de Sousa" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Jerónimo de Sousa</ALVO>
+         </ALVOS>
+         <VALUE>Bem--neste debate ,  Jerónimo de Sousa libertou-se da figura socratina que pareceu intimidá-lo no debate com ele.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Paulo Portas" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Paulo Portas</ALVO>
+         </ALVOS>
+         <VALUE>Custava-lhe contudo admitir 2 ou 3 convergências (  normalíssimo )  com Paulo Portas ,  por questão ideológicas-foi o seu fraco.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="60">
+      <F ID="2" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="GN_livre">lideres da esquerda</ALVO>
+         </ALVOS>
+         <VALUE>Jeronimo mais seguro que antes ,  liberto das baias e da contençao que o haviam limitado nos debates com os outros lideres da esquerda.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Paulo Portas" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Portas</ALVO>
+            <ALVO TIPO="PRON">ele</ALVO>
+         </ALVOS>
+         <VALUE>Portas muito seguro ,  ele é sem duvida o lider partidàrio que melhor se explica em Portugal e que mais claramente expoe as soluçoes que o seu partido propoe para o futuro.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="61"/>
+   <COMENT ID="62">
+      <F ID="1" ALVO="Jerónimo de Sousa" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Jerónimo</ALVO>
+         </ALVOS>
+         <VALUE>O Jerónimo pôs o Portas KO!</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="63">
+      <F ID="1" ALVO="Paulo Portas" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Portas</ALVO>
+            <ALVO TIPO="PRON">este</ALVO>
+         </ALVOS>
+         <VALUE>Penso pelo que vi que o defensor dos trabalhadores se explicou muito bem e que arrumou a cátedra capitalista de Portas ,  embora este também se tenha defendido bem.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Jerónimo de Sousa" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Jerónimo</ALVO>
+         </ALVOS>
+         <VALUE>Jerónimo deve ter vindo com novo ânimo com o enorme êxito da Festa do Avante.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="64">
+      <F ID="2" ALVO="Jerónimo de Sousa" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Jerónimo</ALVO>
+         </ALVOS>
+         <VALUE>Jerónimo mostrou-se mais solto e penso que venceu o debate.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="65">
+      <F ID="1" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Socrates</ALVO>
+         </ALVOS>
+         <VALUE>Socrates ganhou 10-0 ,  chegou a ser confrangedor ver o Louça tentar defender as suas ideias absurdas assentes em demagogia e populismo.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="66"/>
+   <COMENT ID="67">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Socrates</ALVO>
+         </ALVOS>
+         <VALUE>Eu acho que o Socrates esteve quase para pedir um intervalo... que tareia !  </VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="68">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Sócrates foi desmascarado com alguns dos seus acordos ruinosos para o Estado.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Concorde-se ou não Louçã propôs soluções diferentes das que tem sido adoptadas pelos socialistas neoliberais de direita deste governo.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Ao contrário do manso comunista que fez o frete a Sócrates ,  acho que Louçã esteve bem ao ataque.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Ao contrário do manso comunista que fez o frete a Sócrates ,  acho que Louçã esteve bem ao ataque.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="69">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">José Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Foi uma vergonha e revelador de falta de ideas ,  José Sócrates ter insistido tanto no programa do BE ,  sobre o fim dos benefícios fiscais nas contas PPR e Poupança Educação.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="CARGO">PM</ALVO>
+            <ALVO TIPO="PRON">ele</ALVO>
+            <ALVO TIPO="ALCUNHA">Trócaste</ALVO>
+            <ALVO TIPO="ALCUNHA">pinócrates</ALVO>
+         </ALVOS>
+         <VALUE>Eu sei que queria desmascarar o programa do BE ,  mas quem foi e é PM é ele e quem tem de responder por este país que se encontra num pântano ,  cheio de negociatas pouco claras e favores a amigalhaços é o &quot;  Trócaste &quot;  ...  ou se quiserem ,  o pinócrates .  . .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Francisco Louça</ALVO>
+         </ALVOS>
+         <VALUE>O Francisco Louça esteve bem quando confrontou o PM sobre a aprovação ,  enquanto governante ,  do código de trabalho ,  tendo-se oposto a ele quando estava na oposição ,  mas espera que tivesse (  ainda )  mais acutilante e mais preparado para as investidas do PM.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="CARGO">PM</ALVO>
+            <ALVO TIPO="CARGO">PM</ALVO>
+         </ALVOS>
+         <VALUE>O Francisco Louça esteve bem quando confrontou o PM sobre a aprovação ,  enquanto governante ,  do código de trabalho ,  tendo-se oposto a ele quando estava na oposição ,  mas espera que tivesse (  ainda )  mais acutilante e mais preparado para as investidas do PM.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="70"/>
+   <COMENT ID="71">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">José Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Foi uma vergonha e revelador de falta de ideas ,  José Sócrates ter insistido tanto no programa do BE ,  sobre o fim dos benefícios fiscais nas contas PPR e Poupança Educação.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="CARGO">PM</ALVO>
+            <ALVO TIPO="PRON">ele</ALVO>
+            <ALVO TIPO="ALCUNHA">Trócaste</ALVO>
+            <ALVO TIPO="ALCUNHA">pinócrates</ALVO>
+         </ALVOS>
+         <VALUE>Eu sei que queria desmascarar o programa do BE ,  mas quem foi e é PM é ele e quem tem de responder por este país que se encontra num pântano ,  cheio de negociatas pouco claras e favores a amigalhaços é o &quot;  Trócaste &quot;  ...  ou se quiserem ,  o pinócrates .  . .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Francisco Louça</ALVO>
+         </ALVOS>
+         <VALUE>O Francisco Louça esteve bem quando confrontou o PM sobre a aprovação ,  enquanto governante ,  do código de trabalho ,  tendo-se oposto a ele quando estava na oposição ,  mas espera que tivesse (  ainda )  mais acutilante e mais preparado para as investidas do PM.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="CARGO">PM</ALVO>
+            <ALVO TIPO="CARGO">PM</ALVO>
+         </ALVOS>
+         <VALUE>O Francisco Louça esteve bem quando confrontou o PM sobre a aprovação ,  enquanto governante ,  do código de trabalho ,  tendo-se oposto a ele quando estava na oposição ,  mas espera que tivesse (  ainda )  mais acutilante e mais preparado para as investidas do PM.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="72">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Mas as caretas de Sócrates ,  que são o espelho das suas atitudes políticas ,  entusiasmaram-me!</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">José Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Francisco Louçã está a anos luz de José Sócrates ,  com ou sem aparelho!Socialista... vendo no bloco uma execelente opção!</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Francisco Louçã</ALVO>
+            <ALVO TIPO="ORG">bloco</ALVO>
+         </ALVOS>
+         <VALUE>Francisco Louçã está a anos luz de José Sócrates ,  com ou sem aparelho!Socialista... vendo no bloco uma execelente opção!</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="73">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">José Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Foi uma vergonha e revelador de falta de ideas ,  José Sócrates ter insistido tanto no programa do BE ,  sobre o fim dos benefícios fiscais nas contas PPR e Poupança Educação.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Foi uma vergonha e revelador de falta de ideas ,  José Sócrates ter insistido tanto no programa do BE ,  sobre o fim dos benefícios fiscais nas contas PPR e Poupança Educação.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Eu sei que queria desmascarar o programa do BE ,  mas quem foi e é PM é ele e quem tem de responder por este país que se encontra num pântano ,  cheio de negociatas pouco claras e favores a amigalhaços é o &quot;  Trócaste &quot;  ...  ou se quiserem ,  o pinócrates .  . .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="CARGO">PM</ALVO>
+            <ALVO TIPO="PRON">ele</ALVO>
+            <ALVO TIPO="ALCUNHA">Trócaste</ALVO>
+            <ALVO TIPO="ALCUNHA">pinócrates</ALVO>
+         </ALVOS>
+         <VALUE>Eu sei que queria desmascarar o programa do BE,  mas quem foi e é PM  é ele e quem tem de responder por este país que se encontra num pântano ,  cheio de negociatas pouco claras e favores a amigalhaços é o &quot;  Trócaste &quot;  ...  ou se quiserem ,  o pinócrates .  . .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="5" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Francisco Louça</ALVO>
+         </ALVOS>
+         <VALUE>O Francisco Louça esteve bem quando confrontou o PM sobre a aprovação ,  enquanto governante ,  do código de trabalho ,  tendo-se oposto a ele quando estava na oposição ,  mas espera que tivesse (  ainda )  mais acutilante e mais preparado para as investidas do PM.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="5" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="CARGO">PM</ALVO>
+            <ALVO TIPO="CARGO">PM</ALVO>
+         </ALVOS>
+         <VALUE>O Francisco Louça esteve bem quando confrontou o PM sobre a aprovação ,  enquanto governante ,  do código de trabalho ,  tendo-se oposto a ele quando estava na oposição ,  mas espera que tivesse (  ainda )  mais acutilante e mais preparado para as investidas do PM.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="74">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Da redacção da RTP queixam-se que a cadeira de Sócrates estava molhada ,  e a alcatifa esfarelada.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="75">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>O Estado que fornece os pilares universais da educação ,  saúde e justiça ,  coisas que Sócrates e Ferreira Leite vêm como um negócio.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>O Estado que fornece os pilares universais da educação ,  saúde e justiça ,  coisas que Sócrates e Ferreira Leite vêm como um negócio.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Quanto à parvalheira de Sócrates sobre a retirada dos benefícios ,  é óbvio que num estado em que a saúde é um direito universal e em que a mesma funciona bem (  pois aplicar-se-ia o capital necessário na mesma )  não se pode dar benefícios pelos caprichos de alguns irem ao privado!</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="76">
+      <F ID="1" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Sócrates ganhou o que havia para ganhar.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Mostrou o radicalismo do BE ,  que defende nacionalizações e fim dos benefícios fiscais para a educação e saúde.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="77"/>
+   <COMENT ID="78"/>
+   <COMENT ID="79"/>
+   <COMENT ID="80"/>
+   <COMENT ID="81">
+      <F ID="1" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Eu não tenho a minima dúvida em dar continuidade a Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="82">
+      <F ID="4" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>No entanto nesta pretensa notícia aparece apenas a afirmação de Louçã sem o desmentido imediato de Sócrates ,  escrevendo-se que este apenas se &quot;  vitimizou &quot;  ...</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>No entanto nesta pretensa notícia aparece apenas a afirmação de Louçã sem o desmentido imediato de Sócrates ,  escrevendo-se que este apenas se &quot;  vitimizou &quot;  ...</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="83"/>
+   <COMENT ID="84"/>
+   <COMENT ID="85"/>
+   <COMENT ID="86">
+      <F ID="2" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>1º infelizmente so quem tem algum nivel de inteligencia é que concluiu que o socrates enterrou-se( ou tentou enganar quem é menos desprovido de esperteza )  por ter lido o programa a pressa ,  pois se o BE defende saude e educaçao gratuitamente ,  qual e o sentido de existirem deduções .  </VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>2º foi mencionado pelo Eng Socrates e por comentadores nesta pagina que a visao do BE nao é dum pais Europeu ... .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="87"/>
+   <COMENT ID="88">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+            <ALVO TIPO="ALCUNHA">Coveiro</ALVO>
+         </ALVOS>
+         <VALUE>Sou 200 % contra Sócrates que é um INCAPAZ mas até eu sei que é preferível um Coveiro que um demagogista como Louçã.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Sou 200 % contra Sócrates que é um INCAPAZ mas até eu sei que é preferível um Coveiro que um demagogista como Louçã.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+            <ALVO TIPO="PRON">neles</ALVO>
+         </ALVOS>
+         <VALUE>Os que procuram uma esquerda moderada ,  iludem-se com as tretas do BE e votam neles . .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="89">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Quando Sócrates acusa o BE de ser anti-popular sendo este um partido populista ,  então temos aqui um grave problema de Demagogia.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Quando Sócrates acusa o BE de ser anti-popular sendo este um partido populista ,  então temos aqui um grave problema de Demagogia.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="90">
+      <F ID="1" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>&quot;  até eu sei que é preferível um Coveiro que um demagogista como Louçã &quot;  ?  ?  ? ?</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="91"/>
+   <COMENT ID="92">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Sócrates mostrou o quanto básico é nos seus argumentos e nas suas decisões ,  perante Louçã que ultrapassa em QI ,  em competência e transparência.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Sócrates mostrou o quanto básico é nos seus argumentos e nas suas decisões ,  perante Louçã que ultrapassa em QI ,  em competência e transparência.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Jerónimo de Sousa" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Jerónimo</ALVO>
+         </ALVOS>
+         <VALUE>Os debates do PM com toda a oposição vem mostrar que o PM está abaixo em compet~encia ,  com excepção do Jerónimo ,  que tem grandes limitações também.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="93">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>&quot;  Quando Sócrates acusa o BE de ser anti-popular sendo este um partido populista ,  então temos aqui um grave problema de Demagogia.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+            <ALVO TIPO="PRON">este</ALVO>
+            <ALVO TIPO="ORG">partido</ALVO>
+         </ALVOS>
+         <VALUE>&quot;  Quando Sócrates acusa o BE de ser anti-popular sendo este um partido populista ,  então temos aqui um grave problema de Demagogia.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="94"/>
+   <COMENT ID="95"/>
+   <COMENT ID="96">
+      <F ID="2" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Nunca votei no BE ,  mas agora já não sei não.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="5" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>O dito engenheiro lá tentou agarrar-se às ideias de que o BE era radical.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="97"/>
+   <COMENT ID="98"/>
+   <COMENT ID="99">
+      <F ID="4" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>No entanto nesta pretensa notícia aparece apenas a afirmação de Louçã sem o desmentido imediato de Sócrates ,  escrevendo-se que este apenas se &quot;  vitimizou &quot;  ...</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>No entanto nesta pretensa notícia aparece apenas a afirmação de Louçã sem o desmentido imediato de Sócrates ,  escrevendo-se que este apenas se &quot;  vitimizou &quot;  ...</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="100"/>
+   <COMENT ID="101"/>
+   <COMENT ID="102"/>
+   <COMENT ID="103"/>
+   <COMENT ID="104">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">PS</ALVO>
+            <ALVO TIPO="ORG">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>O BE tem k se assumir como herdeiro do milhão de pessoas que votaram em Manuel Alegre cujos seguidores foram expulsos a pontapé do fantástico PS democrático e moderado de Sócrates que aprovou um código de trabalho muito mais radical do que Bagão Félix e depois o BE é k é radical.lol </VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>O BE tem k se assumir como herdeiro do milhão de pessoas que votaram em Manuel Alegre cujos seguidores foram expulsos a pontapé do fantástico PS democrático e moderado de Sócrates que aprovou um código de trabalho muito mais radical do que Bagão Félix e depois o BE é k é radical.lol As pessoas já viram o que as fantásticas privatizações fizeram em relação aos combustíveis e electricidade.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Louça ficou mal,porque a auto-estrada não vai ser adjudicada,mas todos os outros casos,como a galp,contentores ou do presidente de Angola em que Louça expôs as contradições de Sócrates já não houve problema.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="5" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Quanto a questões fiscais ,  o BE defende que a saúde e o ensino devem ser gratuitos e ,  sendo gratuitos ,  nada há a deduzir.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="6" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Mas Sócrates não quis ouvir isto ,  e insistiu em citar apenas as partes do programa do BE que lhe interessavam ,  fora de contexto.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="6" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Mas Sócrates não quis ouvir isto ,  e insistiu em citar apenas as partes do programa do BE que lhe interessavam ,  fora de contexto.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="7" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>É por isto que digo que Sócrates é demagógico ,  levando muitos à certa.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="105">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Revelando fragilidades e comprometido ,  provavelmente pela falta de transparência e isenção manifestada nesta legislatura ,  Sócrates ,  permitiu a humilhação ao insistir na questão fiscal.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="CARGO">PM</ALVO>
+         </ALVOS>
+         <VALUE>Como o discurso político vive de meias verdades ,  o ainda PM ,  insistiu em deturpar o sentido da proposta bloquista que defende ,  a extinção de alguns benefícios fiscais.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">BE</ALVO>
+         </ALVOS>
+         <VALUE>O ataque foi efectuado ignorando ,  propositadamente ,  que esses benefícios deixariam de ter razão de existir porque o BE se propunha a um sistema de saúde e ensino gratuitos.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="106"/>
+   <COMENT ID="107"/>
+   <COMENT ID="108">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Sócrates na sua sonsice sempre que debate com outros liders da esquerda apresenta o papão da direita ,  como se a esquerda fosse toda igual.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="109"/>
+   <COMENT ID="110"/>
+   <COMENT ID="111">
+      <F ID="1" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Francisco Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Porque razão entende o Francisco Louçã que não devem existir deduções à colecta de IRS para Saúde e Educação que só beneficiam os mais cultos e informados assim como os mais espertalhões?</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>O Sócrates mais uma vez depois de sujo na Lama das negociatas dos contentores da Liscont considerada uma burla pelo Tribunal de Contas ,  que é presidido por um notável socialista ,  e pelo roubo que foi a venda da Galp por um valor baixíssimo ,  utilizou a sua baixeza atirando lama mentirosa para cima do Louçã.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>O Sócrates mais uma vez depois de sujo na Lama das negociatas dos contentores da Liscont considerada uma burla pelo Tribunal de Contas ,  que é presidido por um notável socialista ,  e pelo roubo que foi a venda da Galp por um valor baixíssimo ,  utilizou a sua baixeza atirando lama mentirosa para cima do Louçã.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="112">
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sr Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Sr Sócrates faça o favor de saber quem é porque merece ser pago pelo trabalho!</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="113"/>
+   <COMENT ID="114"/>
+   <COMENT ID="115">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>O Sócrates não é Engenheiro.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Basta perguntar na Ordem dos Engenheiros se alguma vez reconheceram cursos da Universidade Independente para se ficar a saber que o Sócrates é Bacharel e não Licenciado em Engenharia como ele afirma ser.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="116"/>
+   <COMENT ID="117"/>
+   <COMENT ID="118"/>
+   <COMENT ID="119">
+      <F ID="1" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">Bloco de Esquerda</ALVO>
+         </ALVOS>
+         <VALUE>Não gosto do Bloco de Esquerda e da maioria das suas propostas ,  mas é preciso ser-se do partido socialista ,  como Sócrates ,  para não perceber a razão do desaparecimento destas deduções : </VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="GN_livre">homem</ALVO>
+            <ALVO TIPO="ORG">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>:  ora se o homem (  Louçã )  quer um ensino público gratuito e um serviço nacional de saúde também gratuito ,  quais são as despesas que querem colocar no IRS?</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Mas o Sócrates não se cansou de javardar nesta confusão ,  nem depois de o Louçã ,  já no limite da paciência que se calhar não teria com um aluno ,  lhe explicar 3 vezes o funcionamento da proposta !  ! !</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Mas o Sócrates não se cansou de javardar nesta confusão ,  nem depois de o Louçã ,  já no limite da paciência que se calhar não teria com um aluno ,  lhe explicar 3 vezes o funcionamento da proposta !  ! !</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="120"/>
+   <COMENT ID="121"/>
+   <COMENT ID="122">
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="CARGO">Drª Manuela</ALVO>
+         </ALVOS>
+         <VALUE>Terá de concordar comigo que ,  quem irá governar este país nos próximos ,  espero 4 anos ,  será ou a direita moderada com ,  concorde comigo ,  alguns ,  bastantes laivos de esquerda social do Engenheiro Sócrates ou a direita retrógada e conservadora da Drª Manuela.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="123"/>
+   <COMENT ID="124">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Asfixia foi o que Sócrates fez na sua governação ,  o pior dos piores governos após do fascismo com a mesma referencia da arrogância de um caudilho nacionalista</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="125">
+      <F ID="1" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>O Sócrates não é parvo.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Ele é até bem espertalhão e por isso percebeu bem o que o Louçã disse em relação aos benefícios fiscais.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="126">
+      <F ID="4" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>No entanto nesta pretensa notícia aparece apenas a afirmação de Louçã sem o desmentido imediato de Sócrates ,  escrevendo-se que este apenas se &quot;  vitimizou &quot;  ...</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>No entanto nesta pretensa notícia aparece apenas a afirmação de Louçã sem o desmentido imediato de Sócrates ,  escrevendo-se que este apenas se &quot;  vitimizou &quot;  ...</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="127"/>
+   <COMENT ID="128"/>
+   <COMENT ID="129"/>
+   <COMENT ID="130">
+      <F ID="3" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>O técnico está autorizado apenas a assinar pequenos projectos de habitação como os telheiros que são atribuídos ao Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="131"/>
+   <COMENT ID="132"/>
+   <COMENT ID="133"/>
+   <COMENT ID="134">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>&quot;Sócrates acena com o papão da direita mas governou mais á direita do que a direita&quot;.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Porque razão não somos directos ,  precisos e objectivos e dizemos que Sócrates governou promovendo a subserviência ,  favorecendo o clientelismo e degradando o país ,  ou seja ,  governou mal.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="135">
+      <F ID="1" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Louçã não é apenas alternativa é a única alternativa.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="136">
+      <F ID="1" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Loução</ALVO>
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Eu acredito que continuar a votar no grande partido dos interesses -  PS/PSD/CDS -  é chafurdar na corrupção ,  na miséria ,  no atraso e acredito que Loução e o BE são futuro.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="137"/>
+   <COMENT ID="138"/>
+   <COMENT ID="139"/>
+   <COMENT ID="140">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Socrates</ALVO>
+         </ALVOS>
+         <VALUE>Duvido que Socrates seja Engenheiro .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Não percebeu patavina do programa do BE.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="6" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>O voto util é BE.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="141">
+      <F ID="1" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>E para quem se quer ver livre de Sócrates tem de facto excelentes opções um Governo Sénior a 3ª idade e toda a &quot;  trupe cavaquista &quot;  deste renovado PSD ou em alternativa à esquerda 2 projectos comunistas ,  isto é um comunista e outro ainda mais comunista que o primeiro ... .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="José Sócrates" POL="1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Pois mas´o que é mesmo divertido é &quot;  pôr o Sócrates na rua ! !</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>É que o problema não é pôr o Sócrates na rua ...  . .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="142">
+      <F ID="4" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Portas</ALVO>
+         </ALVOS>
+         <VALUE>A verdade é que Louça venceu Sócrates e Sócrates venceu Portas.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="5" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>A verdade é que Louça venceu Sócrates  e Sócrates venceu Portas.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="143"/>
+   <COMENT ID="144"/>
+   <COMENT ID="145">
+      <F ID="1" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Até ontem à noite ,  apesar da habitual demagogia do Louçã ,  estava determinada a votar no Bloco ,  mas ,  quando ontem me apercebi ,  por iniciativa de Sócrates que este partido defende a extinção de todos os benefícios fiscais ,  eu e o meu marido pusemo-nos a fazer umas contas e verificamos que essa medida implicaria um muito significativo aumento do nosso IRS.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+            <ALVO TIPO="ORG">Bloco</ALVO>
+            <ALVO TIPO="GN_livre">partido</ALVO>
+         </ALVOS>
+         <VALUE>Até ontem à noite ,  apesar da habitual demagogia do Louçã ,  estava determinada a votar no Bloco ,  mas ,  quando ontem me apercebi ,  por iniciativa de Sócrates que este partido defende a extinção de todos os benefícios fiscais ,  eu e o meu marido pusemo-nos a fazer umas contas e verificamos que essa medida implicaria um muito significativo aumento do nosso IRS.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="146">
+      <F ID="1" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Luís Martins de coimbra ,  tenho que concordar consigo quando diz que o problema não é pôr o Sócrates na rua… é o que vem a seguir.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+            <ALVO TIPO="GN_livre"> &quot;polvo&quot; xuxalista</ALVO>
+         </ALVOS>
+         <VALUE>Efectivamente o problema não é pôr o Sócrates na rua ,  isso até que vai ser fácil ,  o problema é o que vem a seguir… de que forma nos vamos livrar do  &quot;polvo&quot; xuxalista?</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="147">
+      <F ID="1" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>O BE está a incomodar tanto!</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="148">
+      <F ID="1" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Jack ,  e o senhor não tem o cartão do BE?</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="149"/>
+   <COMENT ID="150"/>
+   <COMENT ID="151"/>
+   <COMENT ID="152"/>
+   <COMENT ID="153"/>
+   <COMENT ID="154">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Sócrates teve uma prestação vergonhosa no debate com Louçã.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Sócrates teve uma prestação vergonhosa no debate com Louçã.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Foi apenas ,  Sócrates ao nível habitual.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Louçã deu-lhe uma valente tareia e isso ficou claro perante o país inteiro.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="155">
+      <F ID="1" ALVO="Francisco Louçã" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>É muito interessante ver os defensores do BE a defender esta política fiscal de acabar com as deduções.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Francisco Louçã" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">BE</ALVO>
+         </ALVOS>
+         <VALUE>Estes senhores do BE não devem receber nem um único voto ,  pois na Europa civilizada qualquer partido que defenda estas medidas seria a anedota nacional.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="156">
+      <F ID="1" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Alguns sócretinus ,  por aqui ,  preferem um 1º ministro que se formou nas novas oportunidades do que um Louçã ,  cujo percurso académico é brilhante ! !</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="157">
+      <F ID="4" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+            <ALVO TIPO="NOME">PS</ALVO>
+         </ALVOS>
+         <VALUE>Que coincidência fantástica uma professora (  de matemática )  que depois de levar uma valente tareia do Sócrates masoquistamente diz votar no PS e não sabe fazer contas.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="158"/>
+   <COMENT ID="159"/>
+   <COMENT ID="160"/>
+   <COMENT ID="161"/>
+   <COMENT ID="162">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Estamos fartos de populismo e do vira casacas do Sócrates que agora quer vestir a pele de cordeiro quando esteve 4 anos a congelar escalões ,  a congelar aumentos e a recusar fazer o que prometeu.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Por isso tenho votado PS mas agora vou votar BE pela primeira vez.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="163">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Uma vez mais ,  Sócrates evitou detalhar perante os portugueses as chorudas negociatas da Mota Engil ,  EDP e GALP que foram realizadas com o aval do governo.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="164">
+      <F ID="1" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Estes comentadores do BE têm dificuldade em aceitar a opinião de outros.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="165">
+      <F ID="2" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Com o BE ,  não pagaria nada com o ensino do meu filho que está no Público e pagaria tudo com o outro que está no Privado.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="166"/>
+   <COMENT ID="167">
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">José Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Votei contra a palhaçada do Santana e Portas e pelas mesmas razões jurei que nunca mais votaria em José Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Portas</ALVO>
+         </ALVOS>
+         <VALUE>Votei contra a palhaçada do Santana e Portas e pelas mesmas razões jurei que nunca mais votaria em José Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>E a questão colocava-se entre o PSD e o BE.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="5" ALVO="Manuela Ferreira Leite" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Não que a Manuela Ferreira Leite seja a pessoa mais simpática e comunicativa ,  longe disso ,  mas aprendi a ver que é mais falta de jeito do que falta de carácter.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="168"/>
+   <COMENT ID="169">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>O Sócrates que diz ser engenheiro já está a fazer contas e já sabe que não existem analfabetos suficientes para que ele consiga chegar ao governo sozinho.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Fantástico afinal ficou claro a que famelga política é que o Sócrates pertence.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="170">
+      <F ID="1" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Passem pelo Correio da Manhã e ouçam os comentários do Sócrates sobre a TVI antes do debate com Louçã.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Passem pelo Correio da Manhã e ouçam os comentários do Sócrates sobre a TVI antes do debate com Louçã.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="171">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>O Sócrates como não está comprometido com uma política de justiça social e fiscal vai optar pelo caminho mais fácil que é o acordo com o PP.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">PP</ALVO>
+         </ALVOS>
+         <VALUE>O Sócrates como não está comprometido com uma política de justiça social e fiscal vai optar pelo caminho mais fácil que é o acordo com o PP.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ALCUNHA">Paulinho das Feiras</ALVO>
+         </ALVOS>
+         <VALUE>O Paulinho das Feiras está radiante e já pula de contente com a perspectiva de voltar para o governo.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="172"/>
+   <COMENT ID="173">
+      <F ID="2" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+            <ALVO TIPO="GN_livre">partido</ALVO>
+         </ALVOS>
+         <VALUE>Estes comentários favoráveis ao BE só se explicam porque todos sabemos que este partido nunca chegará ao poder ,  senão era o PREC2 que levaria o país ao caos absoluto e a maior pobreza para todos</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="174"/>
+   <COMENT ID="175">
+      <F ID="1" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">PP</ALVO>
+         </ALVOS>
+         <VALUE>Caros concidadãos reparem nos comentários do PSD e do PP a respeito da taxação em IRS em 40 % para as colossais indemnizações que os gestores se atribuem a si próprios quando são despedidos por incompetência ou têm que dar lugar a outro Boy.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">PP</ALVO>
+         </ALVOS>
+         <VALUE>O PSD e o PP acham mal porque estão muito preocupados com aqueles que só recebem milhões de euros por apenas existir.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="176"/>
+   <COMENT ID="177"/>
+   <COMENT ID="178">
+      <F ID="2" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Claro que o BE assusta muita gente.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="179">
+      <F ID="2" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">José Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>O &quot;  crime &quot;  de José Sócrates e governo foi de ter o atrevimento de mexer com os poderes e interesses instalados e acabar com a inércia em pedras basilares do País.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="180"/>
+   <COMENT ID="181"/>
+   <COMENT ID="182">
+      <F ID="2" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="CARGO">PM</ALVO>
+         </ALVOS>
+         <VALUE>Acho que vai haver muitos Portugueses surpreendidos com a quantidade de pessoas que como eu consideram este PM o melhor desde o 25 de Abril e a melhor coisa que nos aconteceu e mesmo que não consiga ganhar as próximas eleições as reformas importantes estão umas feitas outras encaminhadas .  . .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="183"/>
+   <COMENT ID="184"/>
+   <COMENT ID="185"/>
+   <COMENT ID="186"/>
+   <COMENT ID="187"/>
+   <COMENT ID="188"/>
+   <COMENT ID="189"/>
+   <COMENT ID="190"/>
+   <COMENT ID="191"/>
+   <COMENT ID="192">
+      <F ID="2" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Afinal o que o BE pretende é simplificar !  ! !</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="193"/>
+   <COMENT ID="194">
+      <F ID="4" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Socrates</ALVO>
+         </ALVOS>
+         <VALUE>Socrates chegou a ter até o fundador do CDS como ministro !  </VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="8" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Enfim ,  a &quot;  convicção &quot;  com que Louçã demonstrou a defender as nacionalizações quando Socrates o abordou,demonstra que qualquer dia o BE vai pelo mesmo caminho do PS.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="8" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Socrates</ALVO>
+            <ALVO TIPO="ORG">PS</ALVO>
+         </ALVOS>
+         <VALUE>Enfim ,  a &quot;  convicção &quot;  com que Louçã demonstrou a defender as nacionalizações quando Socrates o abordou,demonstra que qualquer dia o BE vai pelo mesmo caminho do PS.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="10" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">PP</ALVO>
+         </ALVOS>
+         <VALUE>Se o povo acha que os tipos que atiraram o país para o pantano são os mesmos que o vão tirar de lá ,  que vote PS ,  PSD ou PP . </VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="195">
+      <F ID="2" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>A medida que o Louçã propôs terá que ser implementada de forma faseada até que todos os cidadãos possam ter acesso aos vários serviços de saúde de forma gratuita.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="196"/>
+   <COMENT ID="197"/>
+   <COMENT ID="198"/>
+   <COMENT ID="199"/>
+   <COMENT ID="200">
+      <F ID="3" ALVO="Francisco Louçã" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Apostos que já entrou em pane como o Louçã ontem no debate.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="201"/>
+   <COMENT ID="202"/>
+   <COMENT ID="203">
+      <F ID="1" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Socrates</ALVO>
+            <ALVO TIPO="PRON">lhe</ALVO>
+         </ALVOS>
+         <VALUE>O &quot;  fetiche &quot;  dos jornalistas e comentadores intelectuais teve uma queda brusca no debate quando Socrates lhe leu o programa do BE ,  dando a conhecer o seu texto tenebroso aos portugueses.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>O &quot;  fetiche &quot;  dos jornalistas e comentadores intelectuais teve uma queda brusca no debate quando Socrates lhe leu o programa do BE ,  dando a conhecer o seu texto tenebroso aos portugueses.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louça</ALVO>
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Louça e o BE comprometem-se a acabar com os benefícios fiscais em IRS (  PPR ,  despesa educaçao e saúde deixam de ser dedutiveis ) .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="204">
+      <F ID="1" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Para todos aqueles que aqui como o BE ,  dizem o que fazer mas &quot;  só &quot;  não dizem como e a que preço ,  nomeadamente .. .  &quot;  até que todos os cidadãos possam ter acesso aos vários serviços de saúde de forma gratuita &quot; .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="205">
+      <F ID="2" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+            <ALVO TIPO="PRON">se</ALVO>
+         </ALVOS>
+         <VALUE>como é que a Sra. alguma vez pensou em votar BE sabendo-se perfeitamente de antemão a miserável ,  inoportuna ,  desadequada ,  ultrapassada ,  egoísta ,  radical e perigosa ideologia em que se baseiam ?  ?  ? ?</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="206">
+      <F ID="1" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sr ,  Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Se o Sr ,  Louçã quer ,  que vá à bolsa e compre acções ,  agora não obrigue os outros ser donos de coisas que não querem...</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="207"/>
+   <COMENT ID="208">
+      <F ID="1" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Socrates</ALVO>
+         </ALVOS>
+         <VALUE>O debate foi a oportunidade perdida por Lousã para vis-à-vis confrontar o Socrates com todas as politicas que segundo o bloco estão erradas e são lesivas dos interesses dos cidadãos.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="209">
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Socrates</ALVO>
+         </ALVOS>
+         <VALUE>Até parece que Louça já não queria a Europa ,  tal como Socrates pretendeu passar a mensagem.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Socrates</ALVO>
+         </ALVOS>
+         <VALUE>Em que ficamos senhores comentadores ,  apoiantes de Socrates?</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Socrates</ALVO>
+         </ALVOS>
+         <VALUE>Show ,  foi o que assisti por parte de Socrates e ,  quantas vezes aquele olhar descrevia uma mente pouco brilhante ,  receoso ,  e com aquela voz irritante de quem pretende demonstrar hoje uma pessoa diferente. Mas Freud explicaria.. loll</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="210">
+      <F ID="1" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Francisca Gil elogia Louçã e pretende fazer passar a mensagem que defende o modelo dos países nórdicos.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>E além disso são países que não têm por exemplo Subsídio de Desemprego para seu conhecimento ,  o que significa que não têm nada a ver com o que defende o BE ou será que a Nokia é uma empresa pública.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>O BE é um partido que não tem soluções reais e que contribuam para a competitividade do país e quando se aprofundam os temas nota-se que por baixo do paleio não existe qualquer solução credível.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="211">
+      <F ID="3" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>2º Expressiva votação no BE ,põe Socrates e Ferrira Leite em sentido,e qualquer politica contra o povo fá-los pensar duas vezes .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="5" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>3º Ganha o BE,o ideal.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="212">
+      <F ID="1" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Aposto que existem mais candidatos que esses 5 do BE ao CDS ! !</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="213"/>
+   <COMENT ID="214"/>
+   <COMENT ID="215"/>
+   <COMENT ID="216">
+      <F ID="1" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+            <ALVO TIPO="ORG">Louça</ALVO>
+         </ALVOS>
+         <VALUE>Antigamente ainda gostava do BE e Louça.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="217"/>
+   <COMENT ID="218"/>
+   <COMENT ID="219">
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Caro Gungunhana ,  podes ter razão em comparar a tua avó à Manuela Ferreira Leite ,  não conheço a tua avó (  as minhas eram bem mais simpáticas mas eu sou um homem de sorte ) .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="220"/>
+   <COMENT ID="221">
+      <F ID="6" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>E não tenham dúvidas de que Manuela Ferreira Leite ,  uma vez no poder ,  não acabará com a divisão da carreira em duas (  ou mais )  categorias ,  nem com a avaliação em função do desempenho.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="8" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>O discurso de Louçã tornou-se ,  para mim ,  insuportavelmente demagógico.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="222">
+      <F ID="1" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Parece que os vão votar BE ainda não perceberam a política fiscal que sugerem :  acabar com todos os beneficícios fiscais que existem (  PPR´s ,  deduções fiscais ,  isenção do IMT quando se compra casa/apartamento ,  etc ,  etc ,  ...  )  É isso que querem ,  abafar ainda mais a classe média?</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Para o BE ,  a classe média não existe ... .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Se não gostares do menino de oiro socretino só tens que escolher outro que não o BE ou o PCP...</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="223"/>
+   <COMENT ID="224">
+      <F ID="1" ALVO="Jerónimo de Sousa" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Jerónimo</ALVO>
+         </ALVOS>
+         <VALUE>Mais uma vez a VELHA ,  aproveitou para elogiar o seu grande amigo da Madeira ,  perante o inofensivo Jerónimo dadas as circunstâncias dos parâmetros diferenciados que defendem.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="225">
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList"/>
+         <VALUE>Não fiquei com saudades de ver um novo frente-a-frente MFL/JS.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Jerónimo de Sousa" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Jerónimo</ALVO>
+         </ALVOS>
+         <VALUE>E ainda Jerónimo queria mais ,  Deus nos livre.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="226"/>
+   <COMENT ID="227">
+      <F ID="2" ALVO="Manuela Ferreira Leite" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">MFL</ALVO>
+         </ALVOS>
+         <VALUE>Quando não houver aqui comentários contra MFL terão de falar das mãezinhas e das avozinhas ,  pois não sabem dizer mais nada de útil.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="228"/>
+   <COMENT ID="229"/>
+   <COMENT ID="230"/>
+   <COMENT ID="231"/>
+   <COMENT ID="232"/>
+   <COMENT ID="233"/>
+   <COMENT ID="234"/>
+   <COMENT ID="235">
+      <F ID="1" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Portas</ALVO>
+         </ALVOS>
+         <VALUE>O Portas quer tirar dinheiro dos que têm o rendimento mínimo ,  os tais dos 400 euros...até concordo no caso dos ilegais ,  mas presume-se que os do rendimento máximo 1.000.000s ,  ficam absolutamente imunes!</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="236"/>
+   <COMENT ID="237">
+      <F ID="2" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Nestas legislativas continuarei a votar à esquerda ,  mas no BE ou na CDU.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="238">
+      <F ID="2" ALVO="Manuela Ferreira Leite" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">MFL</ALVO>
+            <ALVO TIPO="PRON">ambos</ALVO>
+         </ALVOS>
+         <VALUE>Acho que MFL está mais correcta pois Portas corta tudo rente e não é assim que funciona em sociedade ,  mas ambos apresentam pontos válidos.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="239"/>
+   <COMENT ID="240">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Quem vai derrotar o PS não é MFL é o Sócrates ou têm dúvidas?</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">MFL</ALVO>
+         </ALVOS>
+         <VALUE>Quem vai derrotar o PS não é MFL é o Sócrates ou têm dúvidas?</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="241">
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">MFL</ALVO>
+         </ALVOS>
+         <VALUE>Se MFL não se prepara para os debates será que está preparada para o cargo a que se candidata?</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Paulo Portas" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Portas</ALVO>
+         </ALVOS>
+         <VALUE>O Portas tinha respondido a uma questão que ela lhe colocou e explicado claramente que o dinheiro para as alterações fiscais que propunha viriam das scut (  que passariam a ser pagas ) .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">MFL</ALVO>
+         </ALVOS>
+         <VALUE>Passado um pouco MFL continuava a perguntar-lhe onde iria elebiuscar a massa.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="242">
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>O que ouvi Ferreira Leite responder sobre coligações é que não fazia quaisquer cenários ,  aquilo que diz faz todo o sentido e ,  também ,  não vem fazer promessas em vão ,  sabe assim como todos sentimos a situação desastrosa em que se encontra o país e sabe os pontos onde se deve atender ,  por ex. apoio a pequenas e médias empresas ,  apoios a tudo que gere emprego ,  que faça crescer a quanto a projectos megalómanos ,  pensa e bem que não é o momento para esse dispêndio ,  já ouvi o mesmo a um conceituado comentador e Escritor ,  Miguel Sousa Tavares.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Manuela Ferreira Leite" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Diga-se o que se disser Manuela Ferreira Leite é uma pessoa muito competente ,  seriedade absoluta e sabe do que fala ,  disso ninguém duvide.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="243"/>
+   <COMENT ID="244">
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Manuela Ferreira Leite &quot;  é velha &quot;  ,  &quot;  tem rugas &quot;  ,  &quot;  é feia &quot;  ,  não consegue manipular as pessoas num debate .  . .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="245"/>
+   <COMENT ID="246"/>
+   <COMENT ID="247"/>
+   <COMENT ID="248"/>
+   <COMENT ID="249"/>
+   <COMENT ID="250">
+      <F ID="1" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">paulo Portas</ALVO>
+         </ALVOS>
+         <VALUE>Se o palhaço do paulo Portas não tivesse nascido em berço de Ouro filho do Arqº Nuno Portas e da Helena Sacadura e não conseguir emprego como iria sobreviver a sua a minha a custa de todos os Portuguêses além só conhece agora os Portuguêses a convenser para o porem no poleiro para comer a sua a nossa custa a custa de todos os Portugêses beija agora porque precisa desde feiras a lares da terceira idade depois não conhece ninguèm.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="251">
+      <F ID="1" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Paulo Portas</ALVO>
+            <ALVO TIPO="PRON">ele</ALVO>
+         </ALVOS>
+         <VALUE>A vergonha do debate minha senhora dona Manuela tenha vergonha na cara o Paulo Portas eunão gosto dos dois mas que ele tem razão no que diz sobe Madeira aì isso tem.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="252"/>
+   <COMENT ID="253"/>
+   <COMENT ID="254">
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>No debate de ontem Paulo Portas /Manuela Ferreira Leite ,  ficou muito claro que ,  pela convergência indisfarçável de pontos de vista ,  propostas e programas eleitorais ,  que estão ansiosos para criar condições para uma coligação de direita PSD/CDS !  Por mim digo :  -- NÃO OBRIGADO!</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Paulo Portas</ALVO>
+         </ALVOS>
+         <VALUE>No debate de ontem Paulo Portas /Manuela Ferreira Leite ,  ficou muito claro que ,  pela convergência indisfarçável de pontos de vista ,  propostas e programas eleitorais ,  que estão ansiosos para criar condições para uma coligação de direita PSD/CDS !  Por mim digo :  -- NÃO OBRIGADO!</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="255">
+      <F ID="2" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="GN_livre">mulher</ALVO>
+            <ALVO TIPO="CARGO">Ministra das Finanças</ALVO>
+         </ALVOS>
+         <VALUE>Não é a mesma mulher que foi Ministra das Finanças no governo anterior onde não se notou a sua preocupação pelos reformados ,  pelos funcionários públicos (  a quem congelou os vencimentos por 2 anos )  ,  nem falava nas pequenas e médias empresas ,  tendo aumentado o IVA de 17 para 19 % e tendo criado o Pagamento Especial por Conta?</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="256">
+      <F ID="6" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">Governo PS</ALVO>
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>AGORA ,  é o Governo PS/Sócrates que está a ser julgado e vai ser fortemente penalizado!</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="257"/>
+   <COMENT ID="258"/>
+   <COMENT ID="259"/>
+   <COMENT ID="260"/>
+   <COMENT ID="261"/>
+   <COMENT ID="262"/>
+   <COMENT ID="263"/>
+   <COMENT ID="264"/>
+   <COMENT ID="265"/>
+   <COMENT ID="266"/>
+   <COMENT ID="267">
+      <F ID="1" ALVO="Paulo Portas" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Paulo Portas</ALVO>
+            <ALVO TIPO="PRON">ele</ALVO>
+         </ALVOS>
+         <VALUE>Paulo Portas deve ter vivido num planeta em que só existiam seres como ele ou da mesma estirpe.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="268">
+      <F ID="2" ALVO="Paulo Portas" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Paulo Portas</ALVO>
+         </ALVOS>
+         <VALUE>Se votarem em massa no PSD ,  garantindo-lhe a maioria relativa ,  aumentará bastante a probabilidade de o Paulo Portas voltar ao governo.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="269">
+      <F ID="3" ALVO="José Sócrates" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>O próximo Governo deverá ser de Esquerda e sem o líder da Direita (  Sócrates )  ao leme ,  por isso o PS de esquerda e o BE e PCP têm que fazer um governo de iniciativa parlamentar.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>O próximo Governo deverá ser de Esquerda e sem o líder da Direita (  Sócrates )  ao leme ,  por isso o PS de esquerda e o BE e PCP têm que fazer um governo de iniciativa parlamentar.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="270">
+      <F ID="2" ALVO="Paulo Portas" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Portas</ALVO>
+         </ALVOS>
+         <VALUE>O PNR está contigo e Portas!</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="271"/>
+   <COMENT ID="272"/>
+   <COMENT ID="273">
+      <F ID="3" ALVO="Paulo Portas" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Portas</ALVO>
+         </ALVOS>
+         <VALUE>Interessava-me ,  portanto ,  ver o debate entre Louça e Portas de ontem.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="5" ALVO="Paulo Portas" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">CDS</ALVO>
+            <ALVO TIPO="NOME">Portas</ALVO>
+         </ALVOS>
+         <VALUE>Penso que o CDS está melhor preparado em termos de politicas sociais e económicas (  Portas esteve muito bem a mostrar as diferenças )  para combater a crise e penso que poderá ajudar a classe média que foi fustigada pela actual governação socrática.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="6" ALVO="Paulo Portas" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">PP</ALVO>
+         </ALVOS>
+         <VALUE>Em termos de economia ,  fiscalidade ,  saude e educação ,  para não falar em segurança e agricultura ,  revejo-me mais no PP.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="274"/>
+   <COMENT ID="275"/>
+   <COMENT ID="276"/>
+   <COMENT ID="277">
+      <F ID="2" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">MFL</ALVO>
+         </ALVOS>
+         <VALUE>Na MFL é k nunca ! !</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="278"/>
+   <COMENT ID="279"/>
+   <COMENT ID="280"/>
+   <COMENT ID="281">
+      <F ID="1" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>O programa do BE é uma grande obra de ficção científica dos nossos tempos :  absolutamente irrealista e com traços lunáticos.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="282"/>
+   <COMENT ID="283"/>
+   <COMENT ID="284">
+      <F ID="1" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">menino Paulo Portas</ALVO>
+         </ALVOS>
+         <VALUE>E o menino Paulo Portas que abastece em Espanha que não venha com teorias ,  ou se nacionaliza ou se fiscaliza agressivamente ,  nada de areia para os olhos com Autoridades de Concorrência que não só não cumprem o seu dever como ainda por cima ganham ordenados para trabalhar mal.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="285"/>
+   <COMENT ID="286"/>
+   <COMENT ID="287">
+      <F ID="3" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Face às irresponsabilidades ideológicas pregadas por Louçã ,  aquela frase tem plena actualidade e deveria ser utilizada com regularidade pelos candidatos moderados.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="288">
+      <F ID="1" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">PP</ALVO>
+         </ALVOS>
+         <VALUE>Todos sabemos a quem e a que interesses o PP responde :  aos grandes empórios ,  à desregulação selvagem da economia ,  aos falso-moralistas mais ou menos afectos à Igreja ,  etc... etc .  . .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="289"/>
+   <COMENT ID="290"/>
+   <COMENT ID="291">
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>O próximo Governo deverá ser de Esquerda e sem o líder da Direita (  Sócrates )  ao leme ,  por isso o PS de esquerda e o BE e PCP têm que fazer um governo de iniciativa parlamentar.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">BE</ALVO>
+         </ALVOS>
+         <VALUE>O próximo Governo deverá ser de Esquerda e sem o líder da Direita (  Sócrates )  ao leme ,  por isso o PS de esquerda e o BE e PCP têm que fazer um governo de iniciativa parlamentar.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="292"/>
+   <COMENT ID="293"/>
+   <COMENT ID="294">
+      <F ID="3" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Não há pachorra para tanta estupidez e arrogância à Louçã.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="295">
+      <F ID="4" ALVO="Jerónimo de Sousa" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Jerónimo</ALVO>
+         </ALVOS>
+         <VALUE>O Jerónimo é passado.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="296">
+      <F ID="1" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Francisco Louçã</ALVO>
+            <ALVO TIPO="NOME">Bloco de Esquerda</ALVO>
+         </ALVOS>
+         <VALUE>Surpreendente é que agora ,  em 2009 ,  o mesmo Francisco Louçã aceite que um padre católico seja mandatário do Bloco de Esquerda pelo círculo de Viseu nas eleições do próximo dia 27.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+            <ALVO TIPO="NOME">Bloco</ALVO>
+         </ALVOS>
+         <VALUE>Para Louçã ,  agora os ministros da Igreja Católica já podem fazer campanha política ,  desde que ,  claro está ,  o façam pelo seu Bloco.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="297"/>
+   <COMENT ID="298">
+      <F ID="3" ALVO="José Sócrates" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>O próximo Governo deverá ser de Esquerda e sem o líder da Direita (  Sócrates )  ao leme ,  por isso o PS de esquerda e o BE e PCP têm que fazer um governo de iniciativa parlamentar.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">BE</ALVO>
+         </ALVOS>
+         <VALUE>O próximo Governo deverá ser de Esquerda e sem o líder da Direita (  Sócrates )  ao leme ,  por isso o PS de esquerda e o BE e PCP têm que fazer um governo de iniciativa parlamentar.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="299"/>
+   <COMENT ID="300">
+      <F ID="1" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>O BE chega ao poder ,  por coligação ou acordo parlamentar.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="301"/>
+   <COMENT ID="302"/>
+   <COMENT ID="303"/>
+   <COMENT ID="304"/>
+   <COMENT ID="305">
+      <F ID="1" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>O Luis de Almada também tem medo do BE.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="306"/>
+   <COMENT ID="307"/>
+   <COMENT ID="308"/>
+   <COMENT ID="309"/>
+   <COMENT ID="310">
+      <F ID="2" ALVO="Paulo Portas" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Portas</ALVO>
+         </ALVOS>
+         <VALUE>Para todos os efeitos quem ganhou com os debates foi ,  claramente ,  o Portas.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="311">
+      <F ID="1" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Já ontem nos comentários pós-debate na SIC fiquei com a ideia de que há muitos jornalistas com dificuldade em dar uma clara vitória ao Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Nunca votei no Sócrates nem votarei ,  mas se há coisa que ficou clara neste debate é que a Manuela Ferreira Leite não está preparada para governar o país ,  é retrógada e mete os pés pelas mãos com as contradições do antes de depois de ministra.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+            <ALVO TIPO="CARGO">ministra</ALVO>
+         </ALVOS>
+         <VALUE>Nunca votei no Sócrates nem votarei ,  mas se há coisa que ficou clara neste debate é que a Manuela Ferreira Leite não está preparada para governar o país ,  é retrógada e mete os pés pelas mãos com as contradições do antes de depois de ministra.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="312"/>
+   <COMENT ID="313">
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Manuela Ferreira Leite está preparadissima para governar um capoeiro de galinhas sem galo.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="314">
+      <F ID="1" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>&quot;  Já ontem nos comentários pós-debate na SIC fiquei com a ideia de que há muitos jornalistas com dificuldade em dar uma clara vitória ao Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Nunca votei no Sócrates nem votarei ,  mas se há coisa que ficou clara neste debate é que a Manuela Ferreira Leite não está preparada para governar o país ,  é retrógada e mete os pés pelas mãos com as contradições do antes de depois de ministra.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+            <ALVO TIPO="CARGO">ministra</ALVO>
+         </ALVOS>
+         <VALUE>Nunca votei no Sócrates nem votarei ,  mas se há coisa que ficou clara neste debate é que a Manuela Ferreira Leite não está preparada para governar o país ,  é retrógada e mete os pés pelas mãos com as contradições do antes de depois de ministra.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="315"/>
+   <COMENT ID="316"/>
+   <COMENT ID="317"/>
+   <COMENT ID="318">
+      <F ID="2" ALVO="Manuela Ferreira Leite" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Creio que Ferreira Leite têm razão neste aspecto...deixemo-nos de grandes obras faraónicas para um país pequeno. que tem de evoluir nas medidas sociais.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="319">
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>O mal de Ferreira Leite é um problema de comunicação que a atrofia e que adia seriamente a decisão dos portugueses nesta altura do campeonato!</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="320"/>
+   <COMENT ID="321"/>
+   <COMENT ID="322"/>
+   <COMENT ID="323">
+      <F ID="2" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Dizer que Sócrates quer que Portugal seja uma Província Espanhola,é pensar que os Portugueses são todos uns desmiolados .  (  Porque é que o PSD tenta impingir esta criatura ao País ?  ,será que não gosta desta Nação ? )</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="324"/>
+   <COMENT ID="325">
+      <F ID="2" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Socrates</ALVO>
+         </ALVOS>
+         <VALUE>&quot;  Tenho duvidas porque gostas do Socrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="326"/>
+   <COMENT ID="327">
+      <F ID="1" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Cara Maria das 12:37 ,  quem lhe diz que este PCP e BE não farão coisas terríveis ?  </VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Taxar mais os &quot;  capitalistas &quot;  não será possível porque o BE quer extingui-los.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Se agora o fossem a 100 % não haveria dinheiro para toda a despesa implicita na demagogia fraudulenta de BE e PCP.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="328"/>
+   <COMENT ID="329">
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">MFL</ALVO>
+         </ALVOS>
+         <VALUE>já repararam que MFL não articula o pensamenbto ?  pode ser giro amandar bocas na campanha ,  mas querem alguem a governar o país aos implusos e insultos ?  que remédio ,  lá terei que votar no socrates</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="330">
+      <F ID="3" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="CARGO">PM</ALVO>
+            <ALVO TIPO="PRON">ele</ALVO>
+            <ALVO TIPO="PRON">ele</ALVO>
+         </ALVOS>
+         <VALUE>Quanto ao PM ele estava perante uma senhora e portanto não poderia fazer avanços que pudeseem ser entendidos como falta de educação este para ele era um debate para sair sem perdas...não eram os ganhos que eram importantes .  . .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="331">
+      <F ID="1" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="PRON">alguém</ALVO>
+            <ALVO TIPO="NOME">Socrates</ALVO>
+         </ALVOS>
+         <VALUE>Em tempos difíceis precisamos de alguém com a ambição ,  a visão e a determinação de Socrates ,  não precisamos de quem não conseguiu controlar o defice ,  pois fez zero reformas ,  tendo-se limitado a vender património e créditos ao preço da chuva ,  o que levou o defice a agravar-se ainda mais.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="332"/>
+   <COMENT ID="333">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>O Sócrates fala fluentemente ,  embora o que diz pouco tenha a ver com a realidade.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="334"/>
+   <COMENT ID="335"/>
+   <COMENT ID="336"/>
+   <COMENT ID="337">
+      <F ID="3" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Socrates</ALVO>
+            <ALVO TIPO="PRON">dele</ALVO>
+         </ALVOS>
+         <VALUE>Criou-se a campanha contra o Socrates ,  os ignrnts acreditam no k se diz na TV e desceu a popularidade dele.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="6" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Socrates</ALVO>
+         </ALVOS>
+         <VALUE>Quanto ao debate ,  obvio k Socrates foi mais humilde e elegante e a outra senhora foi arrogante e porKalhona pk falou de orfaos com tom jocoso.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="338"/>
+   <COMENT ID="339"/>
+   <COMENT ID="340">
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">MFL</ALVO>
+         </ALVOS>
+         <VALUE>MFL só sabe dizer não ,  porque sim.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="341"/>
+   <COMENT ID="342">
+      <F ID="3" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Acrescente-se que ,  para Sócrates ,  é vital ganhar.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="343"/>
+   <COMENT ID="344"/>
+   <COMENT ID="345">
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="GN_livre">vendedor de banha da cobra do PS</ALVO>
+            <ALVO TIPO="ALCUNHA">pseudo-engenheiro Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Não foi capaz de rebater NADA do que disse o vendedor de banha da cobra do PS (  leia-se o pseudo-engenheiro Sócrates )  ,  quando era tão fácil.... bastava citar as estatísticas e os próprios números oficiais !  ! !</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="346"/>
+   <COMENT ID="347"/>
+   <COMENT ID="348"/>
+   <COMENT ID="349"/>
+   <COMENT ID="350">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+            <ALVO TIPO="PRON">o</ALVO>
+         </ALVOS>
+         <VALUE>Ninguém referiu que a própria entrevistadora foi claramente aliada de Sócrates neste debate ,  quer cortando-lhe a palavra ,  interrompendo-a com novas questões para ela não concluir o raciocínio ,  fazendo questões provocatórias e deixando para Sócrates ,  sempre a ultima palavra ,  não o confrontando-o com situações críticas .  . .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Nenhum comentador se refere ao ar sisudo e incomodado ,  à atitude zangada de Sócrates que não sabe lidar com a diferença ou seja com a democracia .  . .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Manuela Ferreira Leite" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Ferreira Leite foi coerente ,  argumentou com elevado sentido de estado ,  soube ser flexível perante novas condições políticas e mostrou respeito pelas pessoas ,  sinceridade e determinação .  . .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Sócrates mais uma vez assumiu alguns erros mas não disse como os iria resolver ,  a entrevistadora também não lhe pediu muitas explicações deixando sempre que Sócratestivesse a iniciativa ,  ao contrário do que fez com Ferreira Leite a quem colocou sistematicamente questões problemáticas e polémicas para o PSD .  . .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="5" ALVO="Manuela Ferreira Leite" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Ferreira Leite</ALVO>
+            <ALVO TIPO="NOME">PSD</ALVO>
+         </ALVOS>
+         <VALUE>Sócrates mais uma vez assumiu alguns erros mas não disse como os iria resolver ,  a entrevistadora também não lhe pediu muitas explicações deixando sempre que Sócrates tivesse a iniciativa ,  ao contrário do que fez com Ferreira Leite a quem colocou sistematicamente questões problemáticas e polémicas para o PSD .  . .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="6" ALVO="Manuela Ferreira Leite" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Ferreira Leite foi muito melhor .  . .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="351">
+      <F ID="1" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Sinto que só Sócrates conseguirá manter o rumo correcto para o país até 21/12/2012.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="352"/>
+   <COMENT ID="353"/>
+   <COMENT ID="354"/>
+   <COMENT ID="355"/>
+   <COMENT ID="356">
+      <F ID="1" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Para acabar com as teimosias mostro aqui a noticia do Correio da Manhã &quot;  À questão ‘quem ganhou o debate’ ,  45,6 por cento afirmou que foi Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Ferreira Leite colheu a opinião favorável de 30,2 por cento dos eleitores.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="357">
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+            <ALVO TIPO="CARGO">líder do PSD</ALVO>
+         </ALVOS>
+         <VALUE>Manuela Ferreira Leite não presta para líder do PSD ,  Sócrates faria muito melhor o lugar.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Manuela Ferreira Leite não presta para líder do PSD ,  Sócrates faria muito melhor o lugar.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Como não quero nada com o PSD ,  não irei votar nem em Ferreira Leite nem em Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">PSD</ALVO>
+            <ALVO TIPO="NOME">Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Como não quero nada com o PSD ,  não irei votar nem em Ferreira Leite nem em Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="5" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Opto agora pela CDU ,  cujo programa eleitoral foi o único que Sócrates não conseguiu atacar e cujo reforço é essencial para uma alternativa de esquerda (  depois de Sócrates,  derrotado nas legislativas ,  ser obrigado a abandonar a liderança do partido errado ) .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="358"/>
+   <COMENT ID="359"/>
+   <COMENT ID="360">
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Essa do empate não passa pela cabeça de ninguém,a começar pelos jornalistas da SIC que analisaram o debate pois Luis Delgado e Bettencourt Resendes atribuiram a vitória a Sócrtates ,  Graça Franco apoiante de Ferreira Leite estava triste e a justificar as gaffes como marginais e Ricardo Costa falou muito e não se chegou a perceber muito bem a quem ele deu a vitória.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="361"/>
+   <COMENT ID="362"/>
+   <COMENT ID="363">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Sócrates nunca passará de um aprendiz de feiticeiro Berlusconi.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="364">
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Mas foi evidente que de um lado estiveram a convicção e a honestidade intelectual (  MFL )  ,  do outro estiveram a fanfarronice e a hipocrisia (  Sócrates ) .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Manuela Ferreira Leite" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">MFL</ALVO>
+         </ALVOS>
+         <VALUE>Mas foi evidente que de um lado estiveram a convicção e a honestidade intelectual (  MFL )  ,  do outro estiveram a fanfarronice e a hipocrisia (  Sócrates ) .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+            <ALVO TIPO="PRON">se</ALVO>
+         </ALVOS>
+         <VALUE>Não me parece que Sócrates esteja à altura do cargo ,  pela arrogância que demonstra e que ficou bem patente na tirada em que se armou em moralista pregando sobre a importância de ser humilde.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Mais do que as palavras de Sócrates ,  olhemos para os seus actos nos últimos 4 anos e meio.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="365"/>
+   <COMENT ID="366"/>
+   <COMENT ID="367">
+      <F ID="1" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Para acabar com as teimosias mostro aqui a noticia do Correio da Manhã &quot;  À questão ‘quem ganhou o debate’ ,  45,6 por cento afirmou que foi Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Ferreira Leite colheu a opinião favorável de 30,2 por cento dos eleitores.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="368">
+      <F ID="2" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">MFL</ALVO>
+         </ALVOS>
+         <VALUE>Se estes são os seus patrões pelo menos é coerente ,  É que com a MFL já são três velhos retrogados e à muito ultrapassados!</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="369">
+      <F ID="1" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="CARGO">primeiro-ministro</ALVO>
+            <ALVO TIPO="CARGO">José Sócrates</ALVO>
+            <ALVO TIPO="PRON">este</ALVO>
+         </ALVOS>
+         <VALUE>O gabinete do primeiro-ministro esclareceu que as palavras de José Sócrates em que este indicou que um novo governo significa novos ministros não querem dizer que vá existir uma total remodelação do Executivo.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="370"/>
+   <COMENT ID="371"/>
+   <COMENT ID="372"/>
+   <COMENT ID="373">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Mas ,  porquê da escolha ,  ter que ser entre Sócrates e Manuela Ferreira Leite ?  </VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Mas ,  porquê da escolha ,  ter que ser entre Sócrates e Manuela Ferreira Leite ?  </VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="374"/>
+   <COMENT ID="375"/>
+   <COMENT ID="376">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ALCUNHA">engenheiro</ALVO>
+            <ALVO TIPO="CARGO">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Quanto mais todos os apaniguados do &quot;  engenheiro &quot;  Sócrates inundam este e outros fóruns de discussão com propaganda ,  quanto mais barafustam ,  gesticulam e manipulam na imprensa contra a &quot;  velha salazarengga da Ferreira Leite &quot;  como eles dizem -  mais esta senhora sobe nas intenções de voto dos Portugueses .  . .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ALCUNHA">velha salazarengga</ALVO>
+            <ALVO TIPO="NOME">Ferreira Leite</ALVO>
+            <ALVO TIPO="GN_livre">senhora</ALVO>
+         </ALVOS>
+         <VALUE>Quanto mais todos os apaniguados do &quot;  engenheiro &quot;  Sócrates inundam este e outros fóruns de discussão com propaganda ,  quanto mais barafustam ,  gesticulam e manipulam na imprensa contra a &quot;  velha salazarengga da Ferreira Leite &quot;  como eles dizem -  mais esta senhora sobe nas intenções de voto dos Portugueses .  . .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="7" ALVO="José Sócrates" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ALCUNHA">engenheiro</ALVO>
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Manuela Ferreira Leite tem claramente algo que falta ao &quot;engenheiro&quot; Sócrates :  verticalidade.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="7" ALVO="Manuela Ferreira Leite" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Manuela Ferreira Leite tem claramente algo que falta ao &quot;engenheiro&quot; Sócrates :  verticalidade.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="377"/>
+   <COMENT ID="378"/>
+   <COMENT ID="379">
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Manuela Ferreira Leite no Seu potencial Governo ,  certamente contará com :  Pacheco Pereira ;  Paulo Portas ;  Vasco Polido Valente ;  J.Eduardo Moniz ;  Medina Carreira e claro com uma recuperada (  ) !</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="380">
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">MFL</ALVO>
+         </ALVOS>
+         <VALUE>Arrumada a questão da MFL que comprovadamente demonstrou que era retrógrada ,  xenófoba(cabo-verdianos ,  ucranianos ,  espanhóis... )  enfim ,  um verdadeiro atraso de vida !  ! !</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">Bloco de Esquerda</ALVO>
+         </ALVOS>
+         <VALUE>Resta esclarecer os portugueses do programa do Bloco de Esquerda.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Se os indecisos e os que dizem votar BE ,  forem realmente esclarecidos ,  não duvido que o P.S. volte a ganhar ,  para bem de Portugal.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="5" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Acho k a juventude esclarecida irá decidir-se por Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="6" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ALCUNHA">idosa</ALVO>
+            <ALVO TIPO="NOME">MFL</ALVO>
+         </ALVOS>
+         <VALUE>Quanto aos debates ,  a idosa MFL não ganhou nenhum.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="381"/>
+   <COMENT ID="382"/>
+   <COMENT ID="383">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Sócrates não presta para líder do PSD ,  Manuela Ferreira Leite faria muito melhor o lugar.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="CARGO">líder do PSD</ALVO>
+            <ALVO TIPO="CARGO">Manuela Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Sócrates não presta para líder do PSD ,  Manuela Ferreira Leite faria muito melhor o lugar.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">PS</ALVO>
+            <ALVO TIPO="ORG">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Como não quero nada com o PS ,  não irei votar em Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Opto agora pela BE ,  cujo programa eleitoral foi o único que Sócrates não conseguiu atacar e cujo reforço é essencial para uma alternativa de esquerda (  Manuela Ferreira Leite ,  derrotada nas legislativas ,  ser obrigado a abandonar a liderança do partido errado ) .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Opto agora pela BE ,  cujo programa eleitoral foi o único que Sócrates não conseguiu atacar e cujo reforço é essencial para uma alternativa de esquerda (  Manuela Ferreira Leite ,  derrotada nas legislativas ,  ser obrigado a abandonar a liderança do partido errado ) .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Francisco Louçã" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>Opto agora pela BE ,  cujo programa eleitoral foi o único que Sócrates não conseguiu atacar e cujo reforço é essencial para uma alternativa de esquerda (  Manuela Ferreira Leite ,  derrotada nas legislativas ,  ser obrigado a abandonar a liderança do partido errado ) .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="384"/>
+   <COMENT ID="385"/>
+   <COMENT ID="386"/>
+   <COMENT ID="387"/>
+   <COMENT ID="388">
+      <F ID="1" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>13h49 -  AAG ,  Lisboa -  &quot;  Opto agora pela BE ,  cujo programa eleitoral foi o único que Sócrates não conseguiu atacar ...  &quot;  -  Você deve andar distraído ,  até meteu dó.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>13h49 -  AAG ,  Lisboa -  &quot;  Opto agora pela BE ,  cujo programa eleitoral foi o único que Sócrates não conseguiu atacar ...  &quot;  -  Você deve andar distraído ,  até meteu dó.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Nunca o Louçã tinha passado por uma humilhação politica daquelas.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="Francisco Louçã" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">BE</ALVO>
+         </ALVOS>
+         <VALUE>O programa do BE é &quot;  espantoso &quot;  ,  eu ainda diria mais ,  é ESPANTOSO !  ! !</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="389"/>
+   <COMENT ID="390"/>
+   <COMENT ID="391"/>
+   <COMENT ID="392"/>
+   <COMENT ID="393"/>
+   <COMENT ID="394"/>
+   <COMENT ID="395"/>
+   <COMENT ID="396">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Manuela Ferreira Leite não presta para líder do PSD ,  Sócrates faria muito melhor o lugar.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+            <ALVO TIPO="NOME">líder do PSD</ALVO>
+         </ALVOS>
+         <VALUE>Manuela Ferreira Leite não presta para líder do PSD ,  Sócrates faria muito melhor o lugar.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Como não quero nada com o PSD ,  não irei votar nem em Ferreira Leite nem em Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">PSD</ALVO>
+            <ALVO TIPO="NOME">Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Como não quero nada com o PSD ,  não irei votar nem em Ferreira Leite nem em Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Opto agora pela CDU ,  cujo programa eleitoral foi o único que Sócrates não conseguiu atacar e cujo reforço é essencial para uma alternativa de esquerda (  depois de Sócrates ,  derrotado nas legislativas ,  ser obrigado a abandonar a liderança do partido errado ) .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="397">
+      <F ID="3" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+            <ALVO TIPO="NOME">Primeiro Ministro</ALVO>
+         </ALVOS>
+         <VALUE>O Sócrates é o Primeiro Ministro em Exercício e ela supostamente a alternativa.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">PS</ALVO>
+            <ALVO TIPO="ORG">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Eu atépercebia porque o PS não queria estes debates ,  afinal o Sócrates estava/está numa posição muito incómoda perante alguns disparates que o seu governos fez e perante os resultados da crise económica global e respectiva recessão.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="5" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Portas</ALVO>
+         </ALVOS>
+         <VALUE>Mas a verdade é que ele limpou os 4 debates ,  mesmo os mais difíceis com o Portas e Louçã que são políticos que ,  tal como ele ,  dominam a utilização dos media e são bons de verbo.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="5" ALVO="Francisco Louçã" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Mas a verdade é que ele limpou os 4 debates ,  mesmo os mais difíceis com o Portas e Louçã que são políticos que ,  tal como ele ,  dominam a utilização dos media e são bons de verbo.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="398">
+      <F ID="1" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Houve um vencedor no debate e esse foi Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="399">
+      <F ID="1" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">José Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Hoje ouvi José Sócrates dizer que ,  caso vencesse as eleições ,  iria mudar a composição do Governo.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="400">
+      <F ID="2" ALVO="Manuela Ferreira Leite" POL="0" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ALCUNHA">velha</ALVO>
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>E vão ou deveriam ir de TGV ,  no tal TGV a 7 mil milhões de Euros que a horrenda da velha da Manuela Ferreira Leite não quer oferecer de bandeja aos espanhóis ,  certo ?  ?  ? ?</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="401"/>
+   <COMENT ID="402">
+      <F ID="2" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Em noite de clarificações ,  Sócrates declarou que não reconduzirá nenhum ministro no caso de permanecer no Governo.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="José Sócrates" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>&quot;  Mas algum dia o Sócrates clarificou alguma coisa?Depois diz que não reconduzirá nenhum ministro no caso de permanecer no Governo ,  e faz muito bem ,  o primeiro também.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="403">
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Portugal está ,  por culpa exclusiva de Sócrates e da sua falta de sentido de Estado ,  de seriedade e de maturidade ,  num espartilho que lhe tolhe os movimentos ,  incitando os Portugueses à resignação e ao medo.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="404"/>
+   <COMENT ID="405">
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Manuela Ferreira Leite prometeu terminar com o Pagamento Especial por Conta.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Manuela Ferreira Leite" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>A situação hoje é bem diferente ,  cuja resolução não pode ser desligada pelas medidas iniciadas por Manuela Ferreira Leite e à contratação de Paulo Macedo para a Direcção Geral dos Impostos.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="406"/>
+   <COMENT ID="407"/>
+   <COMENT ID="408">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>O discurso do Sócrates de apoio a todos como é óbvio acolhe votos.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="5" ALVO="Manuela Ferreira Leite" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">MFL</ALVO>
+         </ALVOS>
+         <VALUE>Concordo inteiramente com MFL quando esta aposta nas PME´S.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="409"/>
+   <COMENT ID="410">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Ah ,  infelizmente ,  independentemente do partido politico ,  há que admitir que Sócrates domina muito melhor os debates políticos e fala muito melhor que a maioria dos seus rivais ,  principalmente da Manuela Ferreira Leite ,  e que isso é meio caminho andado para ser bom politico ,  sim..porque ser teimoso na politica não é mau ,  mau é não reconhecer erros e insistir neles.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Ah ,  infelizmente ,  independentemente do partido politico ,  há que admitir que Sócrates domina muito melhor os debates políticos e fala muito melhor que a maioria dos seus rivais ,  principalmente da Manuela Ferreira Leite ,  e que isso é meio caminho andado para ser bom politico ,  sim..porque ser teimoso na politica não é mau ,  mau é não reconhecer erros e insistir neles.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="411"/>
+   <COMENT ID="412"/>
+   <COMENT ID="413">
+      <F ID="1" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">José Sócrates</ALVO>
+            <ALVO TIPO="NOME">JS</ALVO>
+         </ALVOS>
+         <VALUE>O debate da noite de ontem entre José Sócrates (  JS )  e Manuela Ferreira Leite (  MFL )  terminou num empate ,  apesar de ,  tal como na bola ,  quem já tem clube acha que o seu é que ganhou.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+            <ALVO TIPO="NOME">MFL</ALVO>
+         </ALVOS>
+         <VALUE>O debate da noite de ontem entre José Sócrates (  JS )  e Manuela Ferreira Leite (  MFL )  terminou num empate ,  apesar de ,  tal como na bola ,  quem já tem clube acha que o seu é que ganhou.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="414">
+      <F ID="2" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Mas que teria passado pela cabeça dos congressistas do PSD para eleger a Manuela Ferreira Leite?</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="José Sócrates" POL="0" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Só se a intenção era apoiar Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="5" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="GN_livre">senhora</ALVO>
+            <ALVO TIPO="PRON">mesma</ALVO>
+            <ALVO TIPO="CARGO">Ministra das Finanças</ALVO>
+         </ALVOS>
+         <VALUE>Convém lembrar que esta senhora que agora ataca os espanhois é a mesma que perdoou uma dívida de 1 milhão de euros ao Santander Totta quando foi Ministra das Finanças que depois lhe &quot;  ofereceu &quot;  um cargo na Administração quando saiu do governo .  . .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="415"/>
+   <COMENT ID="416"/>
+   <COMENT ID="417">
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Sócrates é retrógrado e antiquado.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="418">
+      <F ID="1" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Paulo Portas</ALVO>
+         </ALVOS>
+         <VALUE>Paulo Portas foi ultrapassado pelo seu próprio discurso mastigado e regorgitado ,  transformado pelo tempo num discurso cunhalista de direita.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Paulo Portas</ALVO>
+            <ALVO TIPO="PRON">si mesmo</ALVO>
+         </ALVOS>
+         <VALUE>Paulo Portas mais não é do que uma imagem empobrecida de si mesmo ,  sem fulgor nem novidade.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Não foi adversário para Sócrates nem nada que se pareça.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="5" ALVO="Paulo Portas" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Paulo Portas</ALVO>
+         </ALVOS>
+         <VALUE>Paulo Portas apagou-se e anunciou a sua retirada da arena ,  só que ainda não sabe.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="419"/>
+   <COMENT ID="420">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>No Sócrates não voto.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="421"/>
+   <COMENT ID="422"/>
+   <COMENT ID="423">
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">engenheiro José Sócrates</ALVO>
+            <ALVO TIPO="PRON">lhe</ALVO>
+         </ALVOS>
+         <VALUE>O engenheiro José Sócrates mostrou-se surpreendido com as interpelações do opositor em vários momentos (  ainda que subtilmente )  ,  e gosta muito de manobrar as respostas para o que lhe convém.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="424">
+      <F ID="2" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ORG">governo</ALVO>
+            <ALVO TIPO="CARGO">PM</ALVO>
+            <ALVO TIPO="PRON">único</ALVO>
+         </ALVOS>
+         <VALUE>Aproveitam os pcs a baixo custo ,  adquiridos no âmbito da sua profissão e pro inciativa deste governo ,  para estarem na net a inundar os comentários com insultos ao PM ,  o único que teve coragem de fazer ver ao país quem são estes (  incompetentes )  profissionais....ou a maior parte deles.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="425">
+      <F ID="3" ALVO="Manuela Ferreira Leite" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">MFL</ALVO>
+         </ALVOS>
+         <VALUE>Mal posso esperar pelos debates com Louçã e MFL.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Francisco Louçã" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Louçã</ALVO>
+         </ALVOS>
+         <VALUE>Mal posso esperar pelos debates com Louçã e MFL.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="426"/>
+   <COMENT ID="427">
+      <F ID="1" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Portas</ALVO>
+         </ALVOS>
+         <VALUE>O impostor foi Portas que votou uma lei que agora critica e que nem se dignou a responder à pergunta se tinha votado ou não.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Ao contrário do que dizem ,  Sócrates esteve bem e venceu claramente.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Portas</ALVO>
+         </ALVOS>
+         <VALUE>Até porque Portas nunca poderia ganhar :  esteve no governo PSD e foi tão medíocre como o resto do PSD.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="428"/>
+   <COMENT ID="429">
+      <F ID="1" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Pese a &quot;  azia &quot;  de uns tantos comentadores ,  a verdade é que Sócrates massacrou o meu querido Paulinho das Feiras!</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Paulo Portas" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ALCUNHA">Paulinho das Feiras</ALVO>
+         </ALVOS>
+         <VALUE>Pese a &quot;  azia &quot;  de uns tantos comentadores ,  a verdade é que Sócrates massacrou o meu querido Paulinho das Feiras!</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="430">
+      <F ID="1" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Paulo Portas</ALVO>
+            <ALVO TIPO="GN_livre">garoto</ALVO>
+         </ALVOS>
+         <VALUE>Seguramente que Sócrates é menos mau do que Durão Barroso e Manuela Ferreira Leite para já não falar de Paulo Portas,que eu não consigo perceber como é que ainda há gente que vote neste garoto.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Manuela Ferreira Leite" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Manuela Ferreira Leite</ALVO>
+         </ALVOS>
+         <VALUE>Seguramente que Sócrates é menos mau do que Durão Barroso e Manuela Ferreira Leite para já não falar de Paulo Portas,que eu não consigo perceber como é que ainda há gente que vote neste garoto.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Seguramente que Sócrates é menos mau do que Durão Barroso e Manuela Ferreira Leite para já não falar de Paulo Portas,que eu não consigo perceber como é que ainda há gente que vote neste garoto.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="431"/>
+   <COMENT ID="432"/>
+   <COMENT ID="433">
+      <F ID="1" ALVO="Paulo Portas" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Portas</ALVO>
+         </ALVOS>
+         <VALUE>Portas falou de medidas a implementar bem interessantes.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Sócrates é mais do mesmo ,  não tem qualquer argumento.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="434">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="CARGO">PM</ALVO>
+         </ALVOS>
+         <VALUE>A cassete do PM já chateia.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="435">
+      <F ID="2" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Portas</ALVO>
+         </ALVOS>
+         <VALUE>O um do lado do Portas,deve ser alguém que viu o debate com mais distanciamento,mas não suporta os Socialistas ou Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>O um do lado do Portas,deve ser alguém que viu o debate com mais distanciamento,mas não suporta os Socialistas ou Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Paulo Portas" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Portas</ALVO>
+         </ALVOS>
+         <VALUE>Agora a verdade é uma,não houve vencedores,mas Sócrates ficou aquem do seu habitual tipo de abafar o adversário,mas isto teve como obstáculo a forma do debate e suas regras e a verdade seja dita, Portas atacou bem e rebateu os pontos principais que Socrates tentou como de costuma evidenciar na sua governação.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+            <ALVO TIPO="NOME">Socrates</ALVO>
+            <ALVO TIPO="GN_livre">governação</ALVO>
+         </ALVOS>
+         <VALUE>Agora a verdade é uma,não houve vencedores,mas Sócrates ficou aquem do seu habitual tipo de abafar o adversário,mas isto teve como obstáculo a forma do debate e suas regras e a verdade seja dita,Portas atacou bem e rebateu os pontos principais que Socrates tentou como de costuma evidenciar na sua governação.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="5" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Por isso Sócrates é bom para debater na Assembleia da Républica onde o tipo de debate o beneficia.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="6" ALVO="Paulo Portas" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Paulo Portas</ALVO>
+         </ALVOS>
+         <VALUE>Por isso o resultado deste debate a haver golos seria 3 para Paulo Portas e 1 para Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="6" ALVO="José Sócrates" POL="1" INT="Irónico">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Por isso o resultado deste debate a haver golos seria 3 para Paulo Portas e 1 para Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="436"/>
+   <COMENT ID="437">
+      <F ID="1" ALVO="Paulo Portas" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Paulo Portas</ALVO>
+         </ALVOS>
+         <VALUE>Se o filme escolhido pelo PM foi o &quot;  Sei o que fizeste o Verão Passado &quot;  ,  para ilustrar um assunto em debate hoje com o grande Paulo Portas ,  o filme que melhor se aplica a este miserável PM é então o do TITANIC :  apresenta-se grande e imponente e logo na primeira viajem afunda-se e leva tudo ao fundo com ele.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="CARGO">PM</ALVO>
+            <ALVO TIPO="CARGO">PM</ALVO>
+            <ALVO TIPO="PRON">ele</ALVO>
+         </ALVOS>
+         <VALUE>Se o filme escolhido pelo PM foi o &quot;  Sei o que fizeste o Verão Passado &quot;  ,  para ilustrar um assunto em debate hoje com o grande Paulo Portas ,  o filme que melhor se aplica a este miserável PM é então o do TITANIC :  apresenta-se grande e imponente e logo na primeira viajem afunda-se e leva tudo ao fundo com ele.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="4" ALVO="Paulo Portas" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Paulo Portas</ALVO>
+         </ALVOS>
+         <VALUE>Paulo Portas deu um banho de cultura e de inteligência a um primeiro ministro muito mediocre.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="438"/>
+   <COMENT ID="439">
+      <F ID="3" ALVO="Paulo Portas" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Paulo Portas</ALVO>
+         </ALVOS>
+         <VALUE>O Paulo Portas manteve-se calmo!</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="440"/>
+   <COMENT ID="441">
+      <F ID="1" ALVO="Paulo Portas" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Paulo Portas</ALVO>
+         </ALVOS>
+         <VALUE>Se o filme escolhido pelo PM foi o &quot;  Sei o que fizeste o Verão Passado &quot;  ,  para ilustrar um assunto em debate hoje com o grande Paulo Portas ,  o filme que melhor se aplica a este miserável PM é então o do TITANIC :  apresenta-se grande e imponente e logo na primeira viajem afunda-se e leva tudo ao fundo com ele.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="CARGO">PM</ALVO>
+            <ALVO TIPO="CARGO">PM</ALVO>
+            <ALVO TIPO="PRON">ele</ALVO>
+         </ALVOS>
+         <VALUE>Se o filme escolhido pelo PM foi o &quot;  Sei o que fizeste o Verão Passado &quot;  ,  para ilustrar um assunto em debate hoje com o grande Paulo Portas ,  o filme que melhor se aplica a este miserável PM é então o do TITANIC :  apresenta-se grande e imponente e logo na primeira viajem afunda-se e leva tudo ao fundo com ele.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="3" ALVO="Paulo Portas" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Paulo Portas</ALVO>
+         </ALVOS>
+         <VALUE>Paulo Portas deu um banho de cultura e de inteligência a um primeiro ministro muito mediocre.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="442"/>
+   <COMENT ID="443">
+      <F ID="1" ALVO="Paulo Portas" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">portas</ALVO>
+            <ALVO TIPO="ORG">governo</ALVO>
+            <ALVO TIPO="ALCUNHA">paulo das feiras</ALVO>
+         </ALVOS>
+         <VALUE>eu já julguei e condenei o portas pelo seu governo em 2005 agora a questa é julgar o Pinoquio o qu ele fez é que me interessa é ele que eu condeno agora dia 27 voto no paulo das feiras ,  até porque eu sou feirante e tenho orgulho nisso pelos vistos estes socialistas sao finos demais para olharem por gentinha das feiras</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="444"/>
+   <COMENT ID="445">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+            <ALVO TIPO="GN_livre">homem</ALVO>
+            <ALVO TIPO="PRON">ele próprio</ALVO>
+         </ALVOS>
+         <VALUE>Quem quiser acreditar no futuro de Sócrates como 1.ºMinistro ,  esteja à vontade ,  está a enganar-se a si próprio ,  por mim basta-me ver o sorriso forçado e amarelo que o homem tem desde as eleições europeias para perceber que ele próprio já prevê o fim para breve.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Paulo Portas" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Paulo Portas</ALVO>
+         </ALVOS>
+         <VALUE>Dizer que ganhou o debate ao Paulo Portas só o dirá quem tiver palas nos olhos ,  que só deixam ver o &quot;  Lider &quot; .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="446"/>
+   <COMENT ID="447">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+            <ALVO TIPO="PRON">alguém</ALVO>
+         </ALVOS>
+         <VALUE>Sócrates não se consegue descolar da imagem de alguém que manipula ,  distorce a realidade social e económica.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="448">
+      <F ID="1" ALVO="José Sócrates" POL="0" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Razão tinha eu quando aqui escrevi que o grande embate de Sócrates não foi o de ontem ,  mas sim a partir de hoje nos frente-a-frente!</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Paulo Portas" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Paulo Portas</ALVO>
+         </ALVOS>
+         <VALUE>Uma coisa é o pinóquio sozinho a falar e outra coisa é quando lhe surge pela frente alguém como Paulo Portas...</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="449">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Em terreno neutro viu-se a vulnerabilidade de Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="2" ALVO="Paulo Portas" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Portas</ALVO>
+         </ALVOS>
+         <VALUE>Portas pô-lo nitidamente num bolso ,  tal foi o desastre da sua governação.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="450">
+      <F ID="2" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Paulo Portas</ALVO>
+         </ALVOS>
+         <VALUE>Paulo Portas já esteve até no governo ,  e o que fez NADA!</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="451">
+      <F ID="1" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">ex ministro Paulo Portas</ALVO>
+         </ALVOS>
+         <VALUE>A oposição hoje representada pelo ex ministro Paulo Portas ,  deu mais um triste espectáculo que aliás se tem repetido de 15 em 15 dias na AR .  . .</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="452">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Socrates</ALVO>
+         </ALVOS>
+         <VALUE>Eu não vi o debate ,  mas qualquer que seja o adversário ,  Socrates perde.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+   <COMENT ID="453">
+      <F ID="1" ALVO="José Sócrates" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Sócrates</ALVO>
+         </ALVOS>
+         <VALUE>Paulo Portas esmagou Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+      <F ID="1" ALVO="Paulo Portas" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="NOME">Paulo Portas</ALVO>
+         </ALVOS>
+         <VALUE>Paulo Portas esmagou Sócrates.</VALUE>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+</CORPUS>

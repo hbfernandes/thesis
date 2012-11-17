@@ -1,0 +1,21 @@
+<CORPUS>
+   <COMENT ID="1">
+      <F ID="1" ALVO="José Sócrates" POL="1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="GN_livre">Homem</ALVO>
+            <ALVO TIPO="CARGO">1º Ministro</ALVO>
+         </ALVOS>
+         <VALUE>
+				Continuo a achar que temos Homem e 1º Ministro.
+			</VALUE>
+      </F>
+      <F ID="2" ALVO="Paulo Portas" POL="-1" INT="Literal">
+         <ALVOS class="java.util.ArrayList">
+            <ALVO TIPO="ALCUNHA">Paulinho das Feiras</ALVO>
+         </ALVOS>
+         <VALUE>
+				O Paulinho das Feiras , como sempre demagogo.
+			</VALUE>
+      </F>
+   </COMENT>
+</CORPUS>

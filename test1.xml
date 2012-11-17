@@ -1,0 +1,18 @@
+<CORPUS>
+   <COMENT ID="1">
+      <F ID="1" REFERS_CLAUSE="0" POL="0">
+         <ALVOS class="java.util.ArrayList"/>
+         <VALUE>Continuo a achar que temos Homem e 1º Ministro.</VALUE>
+         <VALUE-NER-REPLACED>Continuo a achar que temos Homem e José Sócrates.</VALUE-NER-REPLACED>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+       <F ID="2" REFERS_CLAUSE="0" POL="0">
+         <ALVOS class="java.util.ArrayList"/>
+         <VALUE>Mostrou-se inquieto ,  quebrando as regras que tinham sido estipuladas o que demonstra a sua impreparacao quando ele tem de sair da demagogia .</VALUE>
+         <VALUE-NER-REPLACED>Mostrou-se inquieto ,  quebrando as regras que tinham sido estipuladas o que demonstra a sua impreparacao quando ele tem de sair da demagogia .</VALUE-NER-REPLACED>
+         <TOKENS class="java.util.ArrayList"/>
+         <CLAUSES class="java.util.ArrayList"/>
+      </F>
+   </COMENT>
+</CORPUS>
